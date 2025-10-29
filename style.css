@@ -694,7 +694,8 @@ footer {
 
 /* Mobile Menu */
 .mobile-menu {
-    display: none;
+    /* keep rendered but off-canvas so transitions work reliably */
+    display: block;
     position: fixed;
     top: 0;
     right: -100%;
@@ -705,10 +706,15 @@ footer {
     padding: 2rem;
     transition: right 0.3s ease;
     z-index: 2000;
+    /* ensure off-canvas elements don't capture pointer events */
+    pointer-events: none;
+    opacity: 0;
 }
 
 .mobile-menu.active {
     right: 0;
+    pointer-events: auto;
+    opacity: 1;
 }
 
 .mobile-menu-close {
