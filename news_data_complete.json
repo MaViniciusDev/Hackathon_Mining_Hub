@@ -1,0 +1,328 @@
+{
+  "general": [
+    {
+      "id": 1,
+      "title": "Brasil se torna referência global em mineração sustentável",
+      "source": "IBRAM",
+      "date": "2025-10-28",
+      "url": "#",
+      "summary": "Setor mineral brasileiro lidera práticas ESG com investimento de R$ 45 bilhões até 2027.",
+      "type": "sustainability",
+      "image": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Exportações de minérios crescem 18% no primeiro semestre de 2025",
+      "source": "Ministério de Minas e Energia",
+      "date": "2025-10-27",
+      "url": "#",
+      "summary": "Setor mineral gera US$ 52 bilhões em receita com alta nas vendas de ferro, nióbio e ouro.",
+      "type": "market",
+      "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80"
+    },
+    {
+      "id": 3,
+      "title": "ANM aprova novo marco regulatório para mineração crítica",
+      "source": "ANM",
+      "date": "2025-10-26",
+      "url": "#",
+      "summary": "Novas regras facilitam licenciamento de projetos de minerais estratégicos.",
+      "type": "regulation",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Investimento em tecnologia mineral cresce 42% no Brasil",
+      "source": "Mining Hub",
+      "date": "2025-10-25",
+      "url": "#",
+      "summary": "Startups e mineradoras adotam IA, drones e automação para aumentar eficiência.",
+      "type": "technology",
+      "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Brasil e UE firmam parceria estratégica para minerais críticos",
+      "source": "Reuters",
+      "date": "2025-10-24",
+      "url": "#",
+      "summary": "Acordo prevê investimento conjunto em exploração de lítio, terras raras e nióbio.",
+      "type": "geopolitics",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80"
+    }
+  ],
+  "specific": {
+    "litio": [
+      {
+        "id": 101,
+        "title": "Brasil pode se tornar 4º maior produtor de lítio do mundo até 2028",
+        "source": "Valor Econômico",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Novos projetos em MG e PR devem elevar produção brasileira de lítio para 180 mil toneladas anuais.",
+        "tags": ["Lítio", "Produção", "Brasil", "Investimento"],
+        "sentiment": "positive",
+        "relevance_score": 0.96,
+        "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80"
+      },
+      {
+        "id": 102,
+        "title": "Sigma Lithium inicia operações comerciais no Vale do Jequitinhonha",
+        "source": "Mining.com",
+        "date": "2025-10-28",
+        "url": "#",
+        "summary": "Mina Grota do Cirilo em MG começa produção com previsão de 270 mil toneladas/ano de concentrado de lítio.",
+        "tags": ["Lítio", "Sigma Lithium", "Minas Gerais", "Produção"],
+        "sentiment": "positive",
+        "relevance_score": 0.94,
+        "image": "https://images.unsplash.com/photo-1611016186353-9af58c69a533?w=800&q=80"
+      },
+      {
+        "id": 103,
+        "title": "Preço do lítio se estabiliza após queda de 75% em 2023",
+        "source": "Bloomberg",
+        "date": "2025-10-26",
+        "url": "#",
+        "summary": "Mercado de lítio mostra sinais de recuperação com demanda crescente de veículos elétricos.",
+        "tags": ["Lítio", "Preços", "Mercado", "VE"],
+        "sentiment": "neutral",
+        "relevance_score": 0.91,
+        "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&q=80"
+      }
+    ],
+    "niobio": [
+      {
+        "id": 201,
+        "title": "CBMM investe R$ 2,5 bilhões em nova planta de ferronióbio em Araxá",
+        "source": "Folha de S.Paulo",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Expansão aumentará capacidade produtiva em 30% e consolidará posição brasileira no mercado global.",
+        "tags": ["Nióbio", "CBMM", "Investimento", "Araxá"],
+        "sentiment": "positive",
+        "relevance_score": 0.97,
+        "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&q=80"
+      },
+      {
+        "id": 202,
+        "title": "Demanda por nióbio cresce com transição para aços de baixo carbono",
+        "source": "S&P Global",
+        "date": "2025-10-27",
+        "url": "#",
+        "summary": "Indústria siderúrgica adota nióbio para produzir aços mais resistentes e sustentáveis.",
+        "tags": ["Nióbio", "Aço", "Sustentabilidade", "Demanda"],
+        "sentiment": "positive",
+        "relevance_score": 0.93,
+        "image": "https://images.unsplash.com/photo-1565611419254-62c7c5a2a74b?w=800&q=80"
+      }
+    ],
+    "cobre": [
+      {
+        "id": 301,
+        "title": "Brasil descobre nova província cuprífera no Pará com 500 milhões de toneladas",
+        "source": "CPRM",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Descoberta na região de Carajás pode transformar Brasil em grande produtor de cobre.",
+        "tags": ["Cobre", "Exploração", "Pará", "Carajás"],
+        "sentiment": "positive",
+        "relevance_score": 0.95,
+        "image": "https://images.unsplash.com/photo-1611452498116-7b9b1ad495d0?w=800&q=80"
+      },
+      {
+        "id": 302,
+        "title": "Preço do cobre atinge US$ 10.000/ton com boom da eletrificação",
+        "source": "Reuters",
+        "date": "2025-10-28",
+        "url": "#",
+        "summary": "Demanda por infraestrutura elétrica e veículos elétricos impulsiona preços do cobre.",
+        "tags": ["Cobre", "Preços", "Eletrificação", "VE"],
+        "sentiment": "positive",
+        "relevance_score": 0.92,
+        "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&q=80"
+      }
+    ],
+    "ferro": [
+      {
+        "id": 401,
+        "title": "Vale anuncia meta de reduzir 33% das emissões até 2030",
+        "source": "Vale",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Maior produtora de minério de ferro do mundo investe US$ 6 bilhões em descarbonização.",
+        "tags": ["Ferro", "Vale", "ESG", "Descarbonização"],
+        "sentiment": "positive",
+        "relevance_score": 0.94,
+        "image": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=800&q=80"
+      },
+      {
+        "id": 402,
+        "title": "China reduz importações de minério de ferro brasileiro em 8%",
+        "source": "Financial Times",
+        "date": "2025-10-27",
+        "url": "#",
+        "summary": "Desaceleração do setor imobiliário chinês afeta demanda por minério de ferro.",
+        "tags": ["Ferro", "China", "Exportação", "Demanda"],
+        "sentiment": "negative",
+        "relevance_score": 0.89,
+        "image": "https://images.unsplash.com/photo-1578836537282-3171d77f8632?w=800&q=80"
+      }
+    ],
+    "grafita": [
+      {
+        "id": 501,
+        "title": "Brasil pode se tornar líder em grafita natural para baterias até 2027",
+        "source": "Benchmark Mineral Intelligence",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Novos projetos em MG e BA posicionam Brasil como alternativa à China no fornecimento de grafita.",
+        "tags": ["Grafita", "Baterias", "Brasil", "Produção"],
+        "sentiment": "positive",
+        "relevance_score": 0.93,
+        "image": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?w=800&q=80"
+      },
+      {
+        "id": 502,
+        "title": "Preço da grafita esférica para baterias sobe 45% em 2025",
+        "source": "S&P Global",
+        "date": "2025-10-28",
+        "url": "#",
+        "summary": "Demanda crescente de veículos elétricos supera oferta global de grafita de alta pureza.",
+        "tags": ["Grafita", "Preços", "Baterias", "VE"],
+        "sentiment": "positive",
+        "relevance_score": 0.9,
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+      }
+    ],
+    "terras_raras": [
+      {
+        "id": 601,
+        "title": "Serra Verde completa primeira fase de produção de terras raras em GO",
+        "source": "Mining Weekly",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Brasil inicia produção comercial de terras raras pesadas, incluindo disprósio e térbio.",
+        "tags": ["Terras Raras", "Serra Verde", "Goiás", "Produção"],
+        "sentiment": "positive",
+        "relevance_score": 0.96,
+        "image": "https://images.unsplash.com/photo-1530981279185-9cc9f6a4c2cd?w=800&q=80"
+      },
+      {
+        "id": 602,
+        "title": "EUA e Brasil firmam acordo estratégico para fornecimento de terras raras",
+        "source": "Reuters",
+        "date": "2025-10-28",
+        "url": "#",
+        "summary": "Parceria visa reduzir dependência de minerais críticos chineses.",
+        "tags": ["Terras Raras", "EUA", "Brasil", "Geopolítica"],
+        "sentiment": "positive",
+        "relevance_score": 0.94,
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80"
+      }
+    ],
+    "aluminio": [
+      {
+        "id": 701,
+        "title": "Hydro investe R$ 3 bilhões em expansão de refinaria de alumina no PA",
+        "source": "Valor Econômico",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Projeto Alunorte aumentará capacidade produtiva em 25% até 2027.",
+        "tags": ["Alumínio", "Hydro", "Pará", "Investimento"],
+        "sentiment": "positive",
+        "relevance_score": 0.91,
+        "image": "https://images.unsplash.com/photo-1565611419254-62c7c5a2a74b?w=800&q=80"
+      },
+      {
+        "id": 702,
+        "title": "Preço do alumínio sobe 12% com cortes de produção na Europa",
+        "source": "LME",
+        "date": "2025-10-27",
+        "url": "#",
+        "summary": "Crise energética leva fundições europeias a reduzirem produção de alumínio primário.",
+        "tags": ["Alumínio", "Preços", "Europa", "Energia"],
+        "sentiment": "neutral",
+        "relevance_score": 0.87,
+        "image": "https://images.unsplash.com/photo-1565888988653-31c0e17c9e37?w=800&q=80"
+      }
+    ],
+    "ouro": [
+      {
+        "id": 801,
+        "title": "Ouro atinge máxima histórica de R$ 350 mil/kg no mercado brasileiro",
+        "source": "InfoMoney",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Instabilidade geopolítica e inflação impulsionam demanda por ouro como ativo de proteção.",
+        "tags": ["Ouro", "Preços", "Investimento", "Inflação"],
+        "sentiment": "positive",
+        "relevance_score": 0.93,
+        "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=800&q=80"
+      },
+      {
+        "id": 802,
+        "title": "Operação da PF combate garimpo ilegal e contrabando de ouro na Amazônia",
+        "source": "G1",
+        "date": "2025-10-28",
+        "url": "#",
+        "summary": "Ação apreende 300 kg de ouro ilegal e prende 45 pessoas em 6 estados.",
+        "tags": ["Ouro", "Garimpo Ilegal", "Amazônia", "PF"],
+        "sentiment": "neutral",
+        "relevance_score": 0.88,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&q=80"
+      }
+    ],
+    "niquel": [
+      {
+        "id": 901,
+        "title": "Anglo American retoma projeto de níquel em Barro Alto (GO)",
+        "source": "Mining.com",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Investimento de US$ 1,2 bilhão visa produção de sulfato de níquel para baterias.",
+        "tags": ["Níquel", "Anglo American", "Goiás", "Baterias"],
+        "sentiment": "positive",
+        "relevance_score": 0.92,
+        "image": "https://images.unsplash.com/photo-1621903684332-b6e3aeff12d5?w=800&q=80"
+      },
+      {
+        "id": 902,
+        "title": "Preço do níquel cai 15% com aumento de produção na Indonésia",
+        "source": "Bloomberg",
+        "date": "2025-10-27",
+        "url": "#",
+        "summary": "Excesso de oferta pressiona preços do níquel no mercado global.",
+        "tags": ["Níquel", "Preços", "Indonésia", "Oferta"],
+        "sentiment": "negative",
+        "relevance_score": 0.86,
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+      }
+    ],
+    "potassio": [
+      {
+        "id": 1001,
+        "title": "Brasil Verde inicia produção de potássio em Autazes (AM)",
+        "source": "Agência Brasil",
+        "date": "2025-10-29",
+        "url": "#",
+        "summary": "Primeiro projeto de potássio no Brasil pode reduzir 20% da dependência de importações.",
+        "tags": ["Potássio", "Brasil Verde", "Amazonas", "Autossuficiência"],
+        "sentiment": "positive",
+        "relevance_score": 0.95,
+        "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&q=80"
+      },
+      {
+        "id": 1002,
+        "title": "Preço do potássio sobe 35% com guerra na Ucrânia e Belarus",
+        "source": "Reuters",
+        "date": "2025-10-26",
+        "url": "#",
+        "summary": "Conflito geopolítico afeta fornecimento global de fertilizantes potássicos.",
+        "tags": ["Potássio", "Preços", "Geopolítica", "Fertilizantes"],
+        "sentiment": "negative",
+        "relevance_score": 0.89,
+        "image": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&q=80"
+      }
+    ]
+  }
+}

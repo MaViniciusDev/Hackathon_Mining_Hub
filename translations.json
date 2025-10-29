@@ -1,0 +1,102 @@
+{
+  "pt": {
+    "nav.home": "Home",
+    "nav.news": "Notícias",
+    "nav.minerals": "Minérios",
+    "nav.market": "Mercado",
+    "nav.pricing": "Pricing",
+    "nav.login": "Login",
+    "nav.premium": "Premium",
+
+    "hero.title": "Inteligência Mineral ao Seu Alcance",
+    "hero.desc": "Dados de mercado, notícias curadas por IA e informações geológicas de prospecção para decisões estratégicas",
+    "hero.cta_free": "Começar Grátis",
+    "hero.cta_premium": "Conhecer Premium",
+    "hero.cta_map": "Ver Mapa de Prospecção",
+
+    "map.layers": "Camadas",
+    "map.measure": "Medição",
+    "map.mark": "Marcar Área",
+    "map.export": "Exportar",
+    "map.zoom": "Zoom:",
+    "map.show_sgb": "Mostrar camadas SGB (clusters extraídos)",
+    "map.search_placeholder": "Digite local ou coordenadas...",
+    "map.company_placeholder": "Buscar empresa...",
+    "map.show_official_only": "Mostrar somente dados oficiais",
+    "map.results": "Resultados",
+    "map.load_more": "+ Carregar mais",
+
+    "pricing.title": "Escolha o Plano Ideal para Você",
+    "pricing.free.name": "Plano Free",
+    "pricing.free.price": "Grátis",
+    "pricing.free.cta": "Começar Grátis",
+    "pricing.premium.name": "Plano Premium",
+    "pricing.premium.price": "R$ 99/mês",
+    "pricing.premium.cta": "Assinar Agora",
+
+  "features.title": "Recursos Poderosos para Decisões Inteligentes",
+
+    "news.premium_badge": "✨ Conteúdo Premium",
+    "news.paywall_title": "Notícias Exclusivas para Assinantes Premium",
+    "news.paywall_subtitle": "Desbloqueie acesso a notícias curadas por IA específicas para {mineral}",
+    "news.paywall_cta": "Torne-se Premium",
+
+    "articles.title": "Artigos de revistas científicas",
+    "articles.paywall": "Assinantes premium têm acesso a artigos recentes de periódicos de geologia relacionados a este minério.",
+  "articles.none": "No momento não há artigos recentes em nosso acervo para este minério.",
+
+    "modal.premium_title": "Conteúdo Premium",
+    "modal.premium_text": "Acesse notícias curadas por IA específicas para cada minério com o plano Premium.",
+    "modal.premium_cta": "Assinar Premium - R$ 99/mês"
+  },
+  "en": {
+    "nav.home": "Home",
+    "nav.news": "News",
+    "nav.minerals": "Minerals",
+    "nav.market": "Market",
+    "nav.pricing": "Pricing",
+    "nav.login": "Login",
+    "nav.premium": "Premium",
+
+    "hero.title": "Mineral Intelligence Within Reach",
+    "hero.desc": "Market data, AI-curated news and geological prospecting insights to inform strategic decisions",
+    "hero.cta_free": "Start Free",
+    "hero.cta_premium": "See Premium",
+    "hero.cta_map": "View Prospecting Map",
+
+    "map.layers": "Layers",
+    "map.measure": "Measure",
+    "map.mark": "Mark Area",
+    "map.export": "Export",
+    "map.zoom": "Zoom:",
+    "map.show_sgb": "Show SGB layers (extracted clusters)",
+    "map.search_placeholder": "Type place or coordinates...",
+    "map.company_placeholder": "Search company...",
+    "map.show_official_only": "Show only official data",
+    "map.results": "Results",
+    "map.load_more": "+ Load more",
+
+    "pricing.title": "Choose the Right Plan for You",
+    "pricing.free.name": "Free Plan",
+    "pricing.free.price": "Free",
+    "pricing.free.cta": "Start Free",
+    "pricing.premium.name": "Premium Plan",
+    "pricing.premium.price": "R$ 99/month",
+    "pricing.premium.cta": "Subscribe Now",
+
+  "features.title": "Powerful features for intelligent decisions",
+
+    "news.premium_badge": "✨ Premium Content",
+    "news.paywall_title": "Exclusive News for Premium Subscribers",
+    "news.paywall_subtitle": "Unlock AI-curated news specific to {mineral}",
+    "news.paywall_cta": "Become Premium",
+
+    "articles.title": "Journal Articles",
+    "articles.paywall": "Premium subscribers get access to recent journal articles and geological periodicals related to this mineral.",
+  "articles.none": "At the moment there are no recent articles in our collection for this mineral.",
+
+    "modal.premium_title": "Premium Content",
+    "modal.premium_text": "Access AI-curated, mineral-specific news with the Premium plan.",
+    "modal.premium_cta": "Subscribe Premium - R$ 99/month"
+  }
+}

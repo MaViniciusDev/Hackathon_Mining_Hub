@@ -1,0 +1,19 @@
+[
+  {
+    "wikidata_id": "Q11223344",
+    "label": "Província Mineral de Carajás (mock)",
+    "description": "Província mineral com grandes depósitos de ferro e manganês (mock)",
+    "coordinates": [-6.058611, -50.176944],
+    "url": "https://www.wikidata.org/wiki/Q11223344",
+    "synthetic": true,
+    "note": "Entrada mock baseada em conhecimento público; link apontando para Wikidata de exemplo."
+  },
+  {
+    "wikidata_id": "Q22334455",
+    "label": "Distrito de Lítio - Ceará Central (mock)",
+    "description": "Área com registros geológicos favoráveis a lítio (mock)",
+    "coordinates": [-4.5, -39.4375],
+    "url": "https://www.wikidata.org/wiki/Q22334455",
+    "synthetic": true
+  }
+]

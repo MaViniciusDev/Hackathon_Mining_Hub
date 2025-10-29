@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Mapa de Prospecção - Rock Stats</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <a href="index.html" class="logo">
+        <img src="RockstatsLogo.png" alt="Rock Stats" class="logo-image">
+        <span>Rock Stats</span>
+      </a>
+      <nav>
+        <ul class="nav-menu">
+            <li><a href="index.html#home" data-i18n="nav.home">Home</a></li>
+            <li><a href="index.html#news" data-i18n="nav.news">Notícias</a></li>
+            <li><a href="index.html#minerals" data-i18n="nav.minerals">Minérios</a></li>
+            <li><a href="prospecting-map.html" data-i18n="nav.premium">Mapa</a></li>
+            <li><a href="index.html#pricing" data-i18n="nav.pricing">Pricing</a></li>
+        </ul>
+      </nav>
+      <div class="header-actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme"><span id="themeIcon">🌙</span></button>
+        <div class="lang-switcher" id="langSwitcher">
+          <button class="lang-current" aria-haspopup="true" aria-expanded="false" title="Selecionar idioma">
+            <span class="flag">🇧🇷</span>
+            <span class="label">PT</span>
+            <span class="chev">▾</span>
+          </button>
+          <div class="lang-menu hidden" role="menu">
+            <button class="lang-btn" data-lang="pt" role="menuitem"><span class="flag">🇧🇷</span> Português</button>
+            <button class="lang-btn" data-lang="en" role="menuitem"><span class="flag">🇺🇸</span> English</button>
+          </div>
+        </div>
+        <select id="langSelect" aria-label="Select language" class="lang-select" style="display:none;">
+          <option value="pt">PT</option>
+          <option value="en">EN</option>
+        </select>
+        <a href="#" class="btn btn-secondary">Login</a>
+        <a href="#" class="btn btn-primary">Premium</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="map-page">
+    <aside class="map-sidebar">
+      <div class="premium-badge">✨ CONTEÚDO PREMIUM<br><small>Dados ANM/CPRM/SGB</small></div>
+
+      <div class="filters">
+        <label>📍 Buscar Área</label>
+        <input id="searchInput" placeholder="Digite local ou coordenadas..." data-i18n-placeholder="map.search_placeholder" />
+
+        <label>⛏️ Minério</label>
+        <select id="mineralFilter">
+          <option value="all">Todos</option>
+          <option value="Lítio">Lítio</option>
+          <option value="Nióbio">Nióbio</option>
+          <option value="Ferro">Ferro</option>
+          <option value="Ouro">Ouro</option>
+          <option value="Cobre">Cobre</option>
+          <option value="Grafita">Grafita</option>
+          <option value="Terras Raras">Terras Raras</option>
+        </select>
+
+        <label>📊 Status da Área</label>
+        <div class="checkboxes">
+          <label><input type="checkbox" value="Onerada" checked /> Oneradas (ANM)</label>
+          <label><input type="checkbox" value="Disponível" checked /> Disponíveis</label>
+          <label><input type="checkbox" value="Em concessão" checked /> Em concessão</label>
+          <label><input type="checkbox" value="Em requerimento" /> Em requerimento</label>
+        </div>
+
+        <label>🏢 Empresas</label>
+  <input id="companyFilter" placeholder="Buscar empresa..." data-i18n-placeholder="map.company_placeholder" />
+
+        <label>Tamanho da Reserva</label>
+        <select id="reserveSizeFilter">
+          <option value="all">Todos</option>
+          <option value="small">Pequena</option>
+          <option value="medium">Média</option>
+          <option value="large">Grande</option>
+        </select>
+
+        <label>Produção estimada (t/ano)</label>
+        <div style="display:flex;gap:8px;">
+          <input id="prodMin" type="number" placeholder="mín" style="flex:1" />
+          <input id="prodMax" type="number" placeholder="máx" style="flex:1" />
+        </div>
+
+  <label style="display:flex;align-items:center;gap:8px;margin-top:8px;"><input id="officialOnly" type="checkbox" data-i18n-title="map.show_official_only" /> <span data-i18n="map.show_official_only">Mostrar somente dados oficiais</span></label>
+
+        <label>Ordenar por</label>
+        <select id="sortBy">
+          <option value="relevance">Relevância</option>
+          <option value="production_desc">Produção ↓</option>
+          <option value="production_asc">Produção ↑</option>
+          <option value="area_desc">Área ↓</option>
+          <option value="area_asc">Área ↑</option>
+        </select>
+  <label style="display:flex;align-items:center;gap:8px;margin-top:8px;"><input id="sgbToggle" type="checkbox" /> Mostrar camadas SGB (clusters extraídos)</label>
+
+        <div class="filter-actions">
+          <button id="applyFilters" class="btn btn-primary">Aplicar Filtros</button>
+          <button id="clearFilters" class="btn btn-secondary">Limpar</button>
+        </div>
+      </div>
+
+      <div class="results">
+        <h4>📌 Resultados (<span id="resultsCount">—</span>)</h4>
+        <div id="resultsList" class="results-list"></div>
+        <button id="loadMore" class="btn btn-secondary">+ Carregar mais</button>
+      </div>
+    </aside>
+
+    <section class="map-area">
+      <div class="map-controls">
+        <div class="left">
+        <button id="layersBtn" class="btn"><span data-i18n="map.layers">🗺️ Camadas</span></button>
+        <button id="measureBtn" class="btn"><span data-i18n="map.measure">📏 Medição</span></button>
+        <button id="markBtn" class="btn"><span data-i18n="map.mark">📍 Marcar Área</span></button>
+        <button id="exportBtn" class="btn"><span data-i18n="map.export">🖨️ Exportar</span></button>
+        <button id="sidebarToggle" class="btn" title="Mostrar/Ocultar filtros">☰</button>
+        </div>
+        <div class="right">
+          <span>Zoom:</span>
+          <button id="zoomOut" class="btn">-</button>
+          <input id="zoomRange" type="range" min="1" max="5" value="1" />
+          <button id="zoomIn" class="btn">+</button>
+        </div>
+      </div>
+
+      <div id="mapCanvas" class="map-canvas">
+        <!-- Container do Leaflet -->
+        <div id="leafletMap" class="leaflet-map"></div>
+        <!-- Fallback/compat: markersLayer não usado com Leaflet -->
+        <div id="markersLayer" class="markers-layer" style="display:none"></div>
+      </div>
+
+      <div class="map-legend">
+        <h5>LEGENDA</h5>
+        <div class="legend-item"><span class="marker marker-lithium">🟡</span> Lítio</div>
+        <div class="legend-item"><span class="marker marker-niobium">🔵</span> Nióbio</div>
+        <div class="legend-item"><span class="marker marker-copper">🟠</span> Cobre</div>
+        <div class="legend-item"><span class="marker marker-iron">🔴</span> Ferro</div>
+        <div class="legend-item"><span class="marker marker-rare">🟢</span> Terras Raras</div>
+      </div>
+
+      <div class="map-stats">
+        <h5>📊 ESTATÍSTICAS BRASIL</h5>
+        <div>Total de Áreas: <strong id="statTotal">—</strong></div>
+        <div>Oneradas: <strong id="statOneradas">—</strong></div>
+        <div>Disponíveis: <strong id="statDisponiveis">—</strong></div>
+        <div>Empresas Ativas: <strong id="statEmpresas">—</strong></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Modal de Detalhes -->
+  <div id="detailModal" class="modal-overlay">
+    <div class="modal-content detail-modal">
+      <button class="modal-close" id="detailClose">×</button>
+      <div id="detailContent"></div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="i18n.js"></script>
+  <script src="prospecting-map.js"></script>
+</body>
+</html>

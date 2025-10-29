@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Rock Stats</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <a href="index.html" class="logo">
+                <img src="RockstatsLogo.png" alt="Rock Stats Logo" class="logo-image">
+                <span>Rock Stats</span>
+            </a>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="index.html#home">Home</a></li>
+                    <li><a href="index.html#news">Notícias</a></li>
+                    <li><a href="index.html#minerals">Minérios</a></li>
+                    <li><a href="index.html#pricing">Pricing</a></li>
+                </ul>
+            </nav>
+            <div class="header-actions">
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                    <span id="themeIcon">🌙</span>
+                </button>
+                <div class="lang-switcher" id="langSwitcher">
+                    <button class="lang-current" aria-haspopup="true" aria-expanded="false" title="Selecionar idioma">
+                        <span class="flag">🇧🇷</span>
+                        <span class="label">PT</span>
+                        <span class="chev">▾</span>
+                    </button>
+                    <div class="lang-menu hidden" role="menu">
+                        <button class="lang-btn" data-lang="pt" role="menuitem"><span class="flag">🇧🇷</span> Português</button>
+                        <button class="lang-btn" data-lang="en" role="menuitem"><span class="flag">🇺🇸</span> English</button>
+                    </div>
+                </div>
+                <select id="langSelect" aria-label="Select language" class="lang-select" style="display:none;">
+                    <option value="pt">PT</option>
+                    <option value="en">EN</option>
+                </select>
+                <a href="index.html" class="btn btn-secondary">Voltar</a>
+                                <a href="prospecting-map.html" class="btn btn-primary map-cta" title="Abrir mapa de prospecção" aria-label="Abrir mapa de prospecção">
+                                    <span class="map-icon">🌐</span>
+                                    <span class="map-label">Abrir Mapa</span>
+                                </a>
+                <a href="index.html#pricing" class="btn btn-primary">Assinar Premium</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Dashboard Container -->
+    <main class="dashboard-main">
+        <div class="dashboard-container">
+            
+            <!-- Mineral Header -->
+            <section class="mineral-dashboard-header">
+                <div class="mineral-header-content">
+                    <div class="mineral-header-left">
+                        <span class="mineral-emoji-large" id="mineralEmoji">⚡</span>
+                        <div class="mineral-header-info">
+                            <h1 class="mineral-title" id="mineralName">Carregando...</h1>
+                            <p class="mineral-subtitle" id="mineralSymbol">---</p>
+                            <span class="mineral-category-badge" id="mineralCategory">---</span>
+                        </div>
+                    </div>
+                    <div class="mineral-header-right">
+                        <div class="price-display">
+                            <span class="price-label">Preço Atual</span>
+                            <span class="price-value" id="currentPrice">R$ ---</span>
+                        </div>
+                        <div class="change-display" id="priceChange">
+                            <span class="change-value">+0.00%</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Stats Cards -->
+            <section class="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-icon">📈</span>
+                    <div class="stat-content">
+                        <span class="stat-label">Variação 24h</span>
+                        <span class="stat-value" id="change24h">---</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-icon">📊</span>
+                    <div class="stat-content">
+                        <span class="stat-label">Variação 30d</span>
+                        <span class="stat-value" id="change30d">---</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-icon">📉</span>
+                    <div class="stat-content">
+                        <span class="stat-label">Variação 1 ano</span>
+                        <span class="stat-value" id="change1y">---</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-icon">💎</span>
+                    <div class="stat-content">
+                        <span class="stat-label">Reservas Brasil</span>
+                        <span class="stat-value" id="reserves">---</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tabs Navigation -->
+            <section class="tabs-section">
+                <div class="tabs-nav">
+                    <button class="tab-button active" data-tab="price">📊 Preço</button>
+                    <button class="tab-button" data-tab="news">📰 Notícias</button>
+                    <button class="tab-button" data-tab="articles">📚 Artigos</button>
+                    <button class="tab-button" data-tab="analysis">🔬 Análise</button>
+                </div>
+
+                <!-- Tab Content: Price -->
+                <div class="tab-content active" id="tab-price">
+                    <div class="chart-container">
+                        <canvas id="priceChart"></canvas>
+                    </div>
+                    <div class="chart-stats">
+                        <div class="chart-stat">
+                            <span class="chart-stat-label">Máxima (1 ano)</span>
+                            <span class="chart-stat-value" id="maxPrice">---</span>
+                        </div>
+                        <div class="chart-stat">
+                            <span class="chart-stat-label">Mínima (1 ano)</span>
+                            <span class="chart-stat-value" id="minPrice">---</span>
+                        </div>
+                        <div class="chart-stat">
+                            <span class="chart-stat-label">Média (1 ano)</span>
+                            <span class="chart-stat-value" id="avgPrice">---</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tab Content: News -->
+                <div class="tab-content" id="tab-news">
+                    <div id="newsContent">
+                        <!-- Será preenchido via JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Tab Content: Articles -->
+                <div class="tab-content" id="tab-articles">
+                    <div id="articlesContent">
+                        <!-- Será preenchido via JavaScript com artigos científicos (revistas) -->
+                    </div>
+                </div>
+
+                <!-- Tab Content: Analysis -->
+                <div class="tab-content" id="tab-analysis">
+                    <div class="analysis-content">
+                        <h3>Informações Técnicas</h3>
+                        <div class="info-grid">
+                            <div class="info-item">
+                                <span class="info-label">Aplicações Principais</span>
+                                <ul class="info-list" id="applications">
+                                    <li>Carregando...</li>
+                                </ul>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Principais Produtores</span>
+                                <ul class="info-list" id="producers">
+                                    <li>Carregando...</li>
+                                </ul>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Descrição</span>
+                                <p class="info-text" id="description">Carregando...</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- Premium Upsell Modal -->
+    <div class="modal-overlay" id="premiumModal">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose">×</button>
+            <div class="modal-icon">🔒</div>
+            <h2 data-i18n="modal.premium_title">Conteúdo Premium</h2>
+            <p data-i18n="modal.premium_text">Acesse notícias curadas por IA específicas para cada minério com o plano Premium.</p>
+            <ul class="premium-benefits">
+                <li>✓ Notícias específicas por minério</li>
+                <li>✓ Machine Learning aplicado</li>
+                <li>✓ Análise de sentimento</li>
+                <li>✓ Dados de prospecção ANM/CPRM</li>
+            </ul>
+            <a href="index.html#pricing" class="btn btn-primary" data-i18n="modal.premium_cta">Assinar Premium - R$ 99/mês</a>
+        </div>
+    </div>
+
+    <script src="i18n.js"></script>
+    <script src="mineral-dashboard.js"></script>
+</body>
+</html>

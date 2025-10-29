@@ -1,0 +1,359 @@
+[
+  {
+    "id": "BR-SAL-0011",
+    "name": "Salobo Mine",
+    "mineral": "Cobre",
+    "coordinates": [
+      -5.369,
+      -51.25
+    ],
+    "location": "Canaã dos Carajás, Pará, BR",
+    "company": "Vale S.A.",
+    "status": "Em produção",
+    "area_hectares": 4200,
+    "concession_period": "2007–presente",
+    "estimated_production_tpa": 200000,
+    "reserves_estimate": "Relatórios de empresa (ver fonte)",
+    "source_url": "https://en.wikipedia.org/wiki/Salobo_mine",
+    "synthetic": true,
+    "note": "Coordenadas aproximadas retiradas de resumos públicos; confirmar em fonte oficial."
+  },
+  {
+    "id": "BR-BRU-0012",
+    "name": "Brucutu Mine",
+    "mineral": "Ferro",
+    "coordinates": [
+      -19.516,
+      -46.034
+    ],
+    "location": "São Gonçalo do Rio Abaixo / Itabira region, Minas Gerais, BR",
+    "company": "Vale S.A.",
+    "status": "Em produção",
+    "area_hectares": 8000,
+    "concession_period": "1986–presente",
+    "estimated_production_tpa": 18000000,
+    "reserves_estimate": "Relatórios públicos — verificar empresa",
+    "source_url": "https://en.wikipedia.org/wiki/Brucutu_mine",
+    "synthetic": true,
+    "note": "Coordenadas aproximadas; revisar fontes oficiais."
+  },
+  {
+    "id": "BR-PAR-0013",
+    "name": "Paracatu Mine",
+    "mineral": "Ouro",
+    "coordinates": [
+      -17.193,
+      -46.8804
+    ],
+    "location": "Paracatu, Minas Gerais, BR",
+    "company": "Kinross Gold",
+    "status": "Em produção",
+    "area_hectares": 5400,
+    "concession_period": "2000–presente",
+    "estimated_production_tpa": 400000,
+    "reserves_estimate": "~17.5 million oz (gold)",
+    "source_url": "https://en.wikipedia.org/wiki/Paracatu_mine",
+    "synthetic": false,
+    "note": "Entrada baseada em resumo público (Wikipedia).",
+    "wikidata_id": "Q16509616",
+    "wikidata_label": "Paracatu mine",
+    "wikidata_description": "Gold mine in Brazil",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16509616"
+  },
+  {
+    "id": "BR-PIT-0014",
+    "name": "Pitinga Tin Fields",
+    "mineral": "Estanho",
+    "coordinates": [
+      1.5,
+      -62.6
+    ],
+    "location": "Região de Presidente Figueiredo / Amazonas (approx), BR",
+    "company": "Minsur / local operators (historical)",
+    "status": "Operação reduzida/levantamento histórico",
+    "area_hectares": 4500,
+    "concession_period": null,
+    "estimated_production_tpa": null,
+    "reserves_estimate": "Ocorrências conhecidas - revisar CPRM",
+    "source_url": "https://en.wikipedia.org/wiki/Pitinga_mine",
+    "synthetic": true,
+    "note": "Coordenadas aproximadas; conferir dados CPRM/ANM para uso operacional."
+  },
+  {
+    "id": "BR-GRA-0015",
+    "name": "Jacutinga Graphite District (mock)",
+    "mineral": "Grafita",
+    "coordinates": [
+      -22.15,
+      -45.5
+    ],
+    "location": "Minas Gerais region (approximated)",
+    "company": null,
+    "status": "Prospeção",
+    "area_hectares": 1200,
+    "concession_period": null,
+    "estimated_production_tpa": null,
+    "reserves_estimate": null,
+    "source_url": "https://en.wikipedia.org/wiki/Graphite",
+    "synthetic": true,
+    "note": "Mock de distrito grafítico baseado em regiões geológicas conhecidas."
+  },
+  {
+    "id": "BR-LIT-0016",
+    "name": "Ceará Central Lithium District",
+    "mineral": "Lítio",
+    "coordinates": [
+      -4.5,
+      -39.4375
+    ],
+    "location": "Ceará Central, CE, BR",
+    "company": null,
+    "status": "Prospeção",
+    "area_hectares": 2000,
+    "concession_period": null,
+    "estimated_production_tpa": null,
+    "reserves_estimate": null,
+    "source_url": "https://www.cprm.gov.br/",
+    "synthetic": true,
+    "note": "Baseado em mapa geológico e clusters extraídos de PDFs; validar com CPRM."
+  },
+  {
+    "id": "BR-NIO-0017",
+    "name": "Araxá Niobium District",
+    "mineral": "Nióbio",
+    "coordinates": [
+      -19.593,
+      -46.94
+    ],
+    "location": "Araxá, Minas Gerais, BR",
+    "company": "CBMM",
+    "status": "Em produção",
+    "area_hectares": 1200,
+    "concession_period": "1955–presente",
+    "estimated_production_tpa": 80000,
+    "reserves_estimate": "Importantes reservas de nióbio",
+    "source_url": "https://en.wikipedia.org/wiki/Arax%C3%A1",
+    "synthetic": true,
+    "note": "Coordenadas aproximadas; confirmar com fontes oficiais."
+  },
+  {
+    "id": "BR-FER-0018",
+    "name": "Salobo South (satellite area) (mock)",
+    "mineral": "Cobre",
+    "coordinates": [
+      -5.42,
+      -51.3
+    ],
+    "location": "Pará (adjacente a Salobo)",
+    "company": "Vale S.A.",
+    "status": "Prospeção",
+    "area_hectares": 2200,
+    "concession_period": null,
+    "estimated_production_tpa": null,
+    "reserves_estimate": null,
+    "source_url": "https://en.wikipedia.org/wiki/Salobo_mine",
+    "synthetic": true,
+    "note": "Exemplo de área satélite derivada de mapas de favorabilidade."
+  },
+  {
+    "id": "BR-UR-0019",
+    "name": "Lagoa Real Uranium Occurrence",
+    "mineral": "Urânio",
+    "coordinates": [
+      -13.25,
+      -42.5
+    ],
+    "location": "Bahia (Lagoa Real region), BR",
+    "company": null,
+    "status": "Prospeção / ocorrência",
+    "area_hectares": 800,
+    "concession_period": null,
+    "estimated_production_tpa": null,
+    "reserves_estimate": null,
+    "source_url": "https://en.wikipedia.org/wiki/Uranium_in_Brazil",
+    "synthetic": true,
+    "note": "Coordenadas aproximadas extraídas de mapas; validar com CPRM/ANM."
+  },
+  {
+    "id": "BR-COB-0020",
+    "name": "Sossego Copper Mine (mock)",
+    "mineral": "Cobre",
+    "coordinates": [
+      -6.2,
+      -50.0
+    ],
+    "location": "Pará region (approx)",
+    "company": "Major operator (mock)",
+    "status": "Em produção",
+    "area_hectares": 600,
+    "concession_period": null,
+    "estimated_production_tpa": 50000,
+    "reserves_estimate": null,
+    "source_url": "https://en.wikipedia.org/wiki/Copper_mining_in_Brazil",
+    "synthetic": true,
+    "note": "Nome e coordenadas de exemplo — revisar fonte oficial."
+  },
+  {
+    "id": "BR-PHO-0021",
+    "name": "Catalão Phosphate-Niobium District",
+    "mineral": "Fosfato / Nióbio",
+    "coordinates": [
+      -18.189,
+      -47.998
+    ],
+    "location": "Catalão, Goiás, BR",
+    "company": "International / local operators (mock)",
+    "status": "Em produção / Licença",
+    "area_hectares": 5000,
+    "concession_period": null,
+    "estimated_production_tpa": null,
+    "reserves_estimate": null,
+    "source_url": "https://en.wikipedia.org/wiki/Catal%C3%A3o",
+    "synthetic": true,
+    "note": "Coordenadas aproximadas — Catalão é conhecida por fosfato e alcalinos."
+  },
+  {
+    "id": "BR-FOS-0022",
+    "name": "Poços de Caldas Phosphate-Monazite Belt (mock)",
+    "mineral": "Fosfato / Terras Raras",
+    "coordinates": [
+      -21.77,
+      -46.567
+    ],
+    "location": "Poços de Caldas region, MG, BR",
+    "company": null,
+    "status": "Ocorrência / prospeção",
+    "area_hectares": 3000,
+    "source_url": "https://en.wikipedia.org/wiki/Po%C3%A7os_de_Caldas",
+    "synthetic": true,
+    "note": "Área exemplo para ocorrência de fosfato/monazita."
+  },
+  {
+    "id": "BR-GOL-0023",
+    "name": "Serra Pelada Gold District (mock)",
+    "mineral": "Ouro",
+    "coordinates": [
+      -6.053,
+      -49.712
+    ],
+    "location": "Curionópolis / Marabá region, PA, BR",
+    "company": null,
+    "status": "Garimpo histórico / prospeção",
+    "area_hectares": 1500,
+    "source_url": "https://en.wikipedia.org/wiki/Serra_Pelada",
+    "synthetic": true,
+    "note": "Coordenadas aproximadas baseadas em referências históricas."
+  },
+  {
+    "id": "BR-MIN-0024",
+    "name": "Morro do Ouro (mock)",
+    "mineral": "Ouro / Quartzo",
+    "coordinates": [
+      -5.8,
+      -48.5
+    ],
+    "location": "Região Norte (mock)",
+    "company": null,
+    "status": "Prospeção",
+    "area_hectares": 600,
+    "source_url": "https://www.cprm.gov.br/",
+    "synthetic": true,
+    "note": "Entrada gerada para teste de visualização no mapa."
+  },
+  {
+    "id": "BR-UR-0025",
+    "name": "Campo Novo Phosphate Occurrence",
+    "mineral": "Fosfato",
+    "coordinates": [
+      -0.804,
+      -61.083
+    ],
+    "location": "Roraima (approx)",
+    "company": null,
+    "status": "Ocorrência",
+    "area_hectares": 900,
+    "source_url": "https://www.cprm.gov.br/",
+    "synthetic": true,
+    "note": "Mock baseado em relatórios regionais."
+  },
+  {
+    "id": "BR-CLI-0026",
+    "name": "Itabira Iron District (mock)",
+    "mineral": "Ferro",
+    "coordinates": [
+      -19.623,
+      -43.21
+    ],
+    "location": "Itabira region, MG, BR",
+    "company": "Local operators (mock)",
+    "status": "Em produção",
+    "area_hectares": 3200,
+    "source_url": "https://en.wikipedia.org/wiki/Itabira",
+    "synthetic": true,
+    "note": "Area mock representando distrito minerador de ferro."
+  },
+  {
+    "id": "BR-SIL-0027",
+    "name": "Silica Sands - North Minas (mock)",
+    "mineral": "Sílica",
+    "coordinates": [
+      -16.2,
+      -44.6
+    ],
+    "location": "Minas Gerais interior (mock)",
+    "company": null,
+    "status": "Prospeção",
+    "area_hectares": 400,
+    "source_url": "https://en.wikipedia.org/wiki/Silica_sand",
+    "synthetic": true,
+    "note": "Mock para demonstração de diferentes commodities."
+  },
+  {
+    "id": "BR-REC-0028",
+    "name": "Currais Novos - Prospectivity Cluster",
+    "mineral": "Desconhecido",
+    "coordinates": [
+      -6.833333333333333,
+      -36.888888666666666
+    ],
+    "location": "Currais Novos / Santa Luzia, RN, BR",
+    "company": null,
+    "status": "Prospeção",
+    "area_hectares": 67900,
+    "source_url": "https://example.org/sgb-extracted",
+    "synthetic": true,
+    "note": "Cluster derivado de extração SGB — validar."
+  },
+  {
+    "id": "BR-LIM-0029",
+    "name": "Lithium - Outcrop Belt (mock)",
+    "mineral": "Lítio",
+    "coordinates": [
+      -22.75,
+      -44.2
+    ],
+    "location": "Minas Gerais region (pegmatite belt)",
+    "company": null,
+    "status": "Prospeção",
+    "area_hectares": 300,
+    "source_url": "https://en.wikipedia.org/wiki/Lithium",
+    "synthetic": true,
+    "note": "Mock representando província pegmatítica."
+  },
+  {
+    "id": "BR-NAT-0030",
+    "name": "Natural Graphite - Bahia (mock)",
+    "mineral": "Grafita",
+    "coordinates": [
+      -12.5,
+      -41.8
+    ],
+    "location": "Bahia interior (mock)",
+    "company": null,
+    "status": "Ocorrência",
+    "area_hectares": 700,
+    "source_url": "https://www.cprm.gov.br/",
+    "synthetic": true,
+    "note": "Entrada para diversificar amostra de commodities."
+  }
+]

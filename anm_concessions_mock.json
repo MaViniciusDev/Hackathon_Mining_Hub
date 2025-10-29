@@ -1,0 +1,50 @@
+[
+  {
+    "anm_id": "ANM-2020-0001",
+    "title": "Mineração Serra Azul (mock)",
+    "company": "Mineral Brasil S.A. (mock)",
+    "mineral": "Ferro",
+    "status": "Ativa",
+    "area_hectares": 1200,
+    "coordinates": [-19.5000, -43.7000],
+    "municipality": "Brumadinho",
+    "state": "MG",
+    "concession_start": "2018-05-01",
+    "concession_end": "2038-05-01",
+    "source_url": "https://sistemas.anm.gov.br/",
+    "synthetic": true,
+    "note": "Mock criado a partir de padrões públicos (ANM). Valores aproximados — verificar no sistema ANM para uso oficial."
+  },
+  {
+    "anm_id": "ANM-2015-0234",
+    "title": "Projeto Cobre Leste (mock)",
+    "company": "Copperia SA (mock)",
+    "mineral": "Cobre",
+    "status": "Permissão pendente",
+    "area_hectares": 900,
+    "coordinates": [-8.6000, -49.0000],
+    "municipality": "São Félix do Xingu",
+    "state": "PA",
+    "concession_start": "2025-01-01",
+    "concession_end": "2045-01-01",
+    "source_url": "https://sistemas.anm.gov.br/",
+    "synthetic": true,
+    "note": "Exemplo de concessão (mock). Conferir ANM para dados oficiais."
+  },
+  {
+    "anm_id": "ANM-2010-0456",
+    "title": "Araxá Niobium District (mock)",
+    "company": "CBMM (major concessions - mock)",
+    "mineral": "Nióbio",
+    "status": "Em produção",
+    "area_hectares": 1200,
+    "coordinates": [-19.5930, -46.9400],
+    "municipality": "Araxá",
+    "state": "MG",
+    "concession_start": "1980-01-01",
+    "concession_end": null,
+    "source_url": "https://sistemas.anm.gov.br/",
+    "synthetic": true,
+    "note": "Entrada derivada de conhecimento público sobre a província de Araxá — valores aproximados."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CPRM-REC-0001",
+    "name": "Ocorrência Pegmatítica - Ceará Central (mock)",
+    "lithology": "Pegmatito",
+    "mineral": "Lítio",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-4.75, -39.50],
+        [-4.75, -39.25],
+        [-4.25, -39.25],
+        [-4.25, -39.50],
+        [-4.75, -39.50]
+      ]]
+    },
+    "municipality": "Pacs/CE (mock)",
+    "state": "CE",
+    "source_url": "https://www.cprm.gov.br/",
+    "synthetic": true,
+    "note": "Polígono aproximado gerado a partir de cluster SGB (mock). Conferir relatório CPRM para geometria oficial."
+  },
+  {
+    "id": "CPRM-REC-0002",
+    "name": "Formação X - ocorrência de grafita (mock)",
+    "lithology": "Metamórfico - xisto grafítico",
+    "mineral": "Grafita",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-20.450, -44.850]
+    },
+    "municipality": "Minas Gerais (mock)",
+    "state": "MG",
+    "source_url": "https://www.cprm.gov.br/",
+    "synthetic": true,
+    "note": "Ponto de ocorrência aproximado — use dados CPRM para validação."
+  }
+]

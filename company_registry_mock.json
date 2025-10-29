@@ -1,0 +1,41 @@
+[
+  {
+    "company_name": "Vale S.A.",
+    "cnpj": "33.092.165/0001-98",
+    "headquarters": "Rio de Janeiro, RJ, Brazil",
+    "website": "https://www.vale.com",
+    "active_since": 1942,
+    "synthetic": false,
+    "note": "Empresa real — dados públicos (CNPJ mock used as example). Verify official registry for legal use.",
+    "wikidata_id": "Q583268",
+    "wikidata_label": "Vale",
+    "wikidata_description": "multinational diversified metals and mining corporation",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q583268"
+  },
+  {
+    "company_name": "Kinross Gold",
+    "cnpj": null,
+    "headquarters": "Toronto, Canada",
+    "website": "https://www.kinross.com",
+    "active_since": 1993,
+    "synthetic": true,
+    "note": "Entry mocked for demo; global company HQ included.",
+    "wikidata_id": "Q546880",
+    "wikidata_label": "Kinross Gold",
+    "wikidata_description": "company",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q546880"
+  },
+  {
+    "company_name": "CBMM",
+    "cnpj": null,
+    "headquarters": "Araxá, MG, Brazil",
+    "website": "https://www.cbmm.com",
+    "active_since": 1955,
+    "synthetic": true,
+    "note": "Major niobium producer — mock entry for mapping.",
+    "wikidata_id": "Q9829487",
+    "wikidata_label": "Companhia Brasileira de Metalurgia e Mineração",
+    "wikidata_description": "mining company in Araxa, Brazil",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q9829487"
+  }
+]

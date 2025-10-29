@@ -1,0 +1,112 @@
+[
+  {
+    "id": "MG-0123456",
+    "mineral": "Lítio",
+    "location": "Araçuaí, MG",
+    "coordinates": [-16.8496, -42.0679],
+    "company": "Sigma Lithium",
+    "status": "Onerada",
+    "area_hectares": 1240,
+    "concession_period": "2020-2045",
+    "estimated_production": "270000"
+  },
+  {
+    "id": "MG-0234567",
+    "mineral": "Nióbio",
+    "location": "Araxá, MG",
+    "coordinates": [-19.5936, -46.9406],
+    "company": "CBMM",
+    "status": "Onerada",
+    "area_hectares": 3500,
+    "concession_period": "1965-2040",
+    "estimated_production": "150000"
+  },
+  {
+    "id": "PA-0345678",
+    "mineral": "Ferro",
+    "location": "Carajás, PA",
+    "coordinates": [-6.0626, -50.1529],
+    "company": "Vale",
+    "status": "Onerada",
+    "area_hectares": 7800,
+    "concession_period": "1985-2035",
+    "estimated_production": "300000000"
+  },
+  {
+    "id": "GO-0456789",
+    "mineral": "Terras Raras",
+    "location": "Catalão, GO",
+    "coordinates": [-18.1666, -47.9472],
+    "company": "Serra Verde",
+    "status": "Onerada",
+    "area_hectares": 2100,
+    "concession_period": "2021-2046",
+    "estimated_production": "5000"
+  },
+  {
+    "id": "BA-0567890",
+    "mineral": "Grafita",
+    "location": "Maracás, BA",
+    "coordinates": [-13.4397, -40.4267],
+    "company": "Nacional de Grafite",
+    "status": "Em concessão",
+    "area_hectares": 890,
+    "concession_period": "Pendente",
+    "estimated_production": "50000"
+  },
+  {
+    "id": "MG-0678901",
+    "mineral": "Lítio",
+    "location": "Itabira, MG",
+    "coordinates": [-19.6200, -43.2014],
+    "company": "Brasil Lithium",
+    "status": "Disponível",
+    "area_hectares": 420,
+    "concession_period": "Pendente",
+    "estimated_production": "20000"
+  },
+  {
+    "id": "PA-0789012",
+    "mineral": "Cobre",
+    "location": "Parauapebas, PA",
+    "coordinates": [-6.0747, -49.9025],
+    "company": "Mineração Pará",
+    "status": "Onerada",
+    "area_hectares": 6200,
+    "concession_period": "1998-2030",
+    "estimated_production": "1200000"
+  },
+  {
+    "id": "GO-0890123",
+    "mineral": "Nióbio",
+    "location": "Catalão, GO",
+    "coordinates": [-18.1640, -47.9335],
+    "company": "CBMM II",
+    "status": "Em requerimento",
+    "area_hectares": 980,
+    "concession_period": "Pendente",
+    "estimated_production": "8000"
+  },
+  {
+    "id": "MG-0901234",
+    "mineral": "Ferro",
+    "location": "Itabirito, MG",
+    "coordinates": [-20.1584, -43.8408],
+    "company": "Vale II",
+    "status": "Onerada",
+    "area_hectares": 4100,
+    "concession_period": "2000-2030",
+    "estimated_production": "900000"
+  },
+  {
+    "id": "PA-1012345",
+    "mineral": "Ouro",
+    "location": "Ilha do Governador, PA",
+    "coordinates": [-1.4558, -48.4900],
+    "company": "Kinross Gold",
+    "status": "Disponível",
+    "area_hectares": 150,
+    "concession_period": "Pendente",
+    "estimated_production": "1200"
+  }
+]

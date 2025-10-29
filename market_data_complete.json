@@ -1,0 +1,5280 @@
+{
+  "enxofre": {
+    "info": {
+      "name": "Enxofre",
+      "symbol": "S",
+      "unit": "R$/Ton",
+      "category": "Dependência de Suprimento",
+      "description": "Enxofre elementar, grau industrial",
+      "applications": [
+        "Fertilizantes",
+        "Ácido sulfúrico",
+        "Borracha vulcanizada",
+        "Produtos químicos"
+      ],
+      "major_producers": [
+        "China",
+        "Estados Unidos",
+        "Rússia",
+        "Canadá"
+      ],
+      "reserves_brazil": "Limitadas - depende de importação",
+      "emoji": "🟡"
+    },
+    "current": {
+      "price": 5276.52,
+      "change_24h": 0.72,
+      "change_7d": 1.55,
+      "change_30d": 30.95,
+      "change_1y": 394.9,
+      "timestamp": "2025-10-29T14:25:08.877694"
+    },
+    "statistics": {
+      "max_price_1y": 5378.03,
+      "min_price_1y": 1060.39,
+      "avg_price_1y": 2226.23
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 4094.92,
+          "volume": 47719
+        },
+        {
+          "date": "2025-09-30",
+          "price": 4100.29,
+          "volume": 30105
+        },
+        {
+          "date": "2025-10-01",
+          "price": 4204.9,
+          "volume": 1447
+        },
+        {
+          "date": "2025-10-02",
+          "price": 4089.46,
+          "volume": 43284
+        },
+        {
+          "date": "2025-10-03",
+          "price": 4195.31,
+          "volume": 47053
+        },
+        {
+          "date": "2025-10-04",
+          "price": 4174.76,
+          "volume": 17089
+        },
+        {
+          "date": "2025-10-05",
+          "price": 4254.15,
+          "volume": 22394
+        },
+        {
+          "date": "2025-10-06",
+          "price": 4289.93,
+          "volume": 19915
+        },
+        {
+          "date": "2025-10-07",
+          "price": 4325.91,
+          "volume": 13388
+        },
+        {
+          "date": "2025-10-08",
+          "price": 4325.37,
+          "volume": 44399
+        },
+        {
+          "date": "2025-10-09",
+          "price": 4339.62,
+          "volume": 27870
+        },
+        {
+          "date": "2025-10-10",
+          "price": 4452.57,
+          "volume": 36706
+        },
+        {
+          "date": "2025-10-11",
+          "price": 4451.69,
+          "volume": 20200
+        },
+        {
+          "date": "2025-10-12",
+          "price": 4382.92,
+          "volume": 34804
+        },
+        {
+          "date": "2025-10-13",
+          "price": 4475.03,
+          "volume": 15245
+        },
+        {
+          "date": "2025-10-14",
+          "price": 4551.0,
+          "volume": 49000
+        },
+        {
+          "date": "2025-10-15",
+          "price": 4650.01,
+          "volume": 46266
+        },
+        {
+          "date": "2025-10-16",
+          "price": 4879.41,
+          "volume": 2613
+        },
+        {
+          "date": "2025-10-17",
+          "price": 4976.2,
+          "volume": 47849
+        },
+        {
+          "date": "2025-10-18",
+          "price": 5166.99,
+          "volume": 18055
+        },
+        {
+          "date": "2025-10-19",
+          "price": 5157.43,
+          "volume": 47431
+        },
+        {
+          "date": "2025-10-20",
+          "price": 5185.81,
+          "volume": 29067
+        },
+        {
+          "date": "2025-10-21",
+          "price": 5195.9,
+          "volume": 42557
+        },
+        {
+          "date": "2025-10-22",
+          "price": 5378.03,
+          "volume": 6792
+        },
+        {
+          "date": "2025-10-23",
+          "price": 5248.44,
+          "volume": 6646
+        },
+        {
+          "date": "2025-10-24",
+          "price": 5209.32,
+          "volume": 46475
+        },
+        {
+          "date": "2025-10-25",
+          "price": 5286.81,
+          "volume": 7482
+        },
+        {
+          "date": "2025-10-26",
+          "price": 5219.49,
+          "volume": 29859
+        },
+        {
+          "date": "2025-10-27",
+          "price": 5238.93,
+          "volume": 27337
+        },
+        {
+          "date": "2025-10-28",
+          "price": 5276.52,
+          "volume": 15106
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 5378.03
+        },
+        {
+          "date": "2025-10-23",
+          "price": 5248.44
+        },
+        {
+          "date": "2025-10-24",
+          "price": 5209.32
+        },
+        {
+          "date": "2025-10-25",
+          "price": 5286.81
+        },
+        {
+          "date": "2025-10-26",
+          "price": 5219.49
+        },
+        {
+          "date": "2025-10-27",
+          "price": 5238.93
+        },
+        {
+          "date": "2025-10-28",
+          "price": 5276.52
+        }
+      ]
+    }
+  },
+  "fosfato": {
+    "info": {
+      "name": "Fosfato",
+      "symbol": "P₂O₅",
+      "unit": "R$/Ton",
+      "category": "Dependência de Suprimento",
+      "description": "Rocha fosfática, concentrado",
+      "applications": [
+        "Fertilizantes",
+        "Ração animal",
+        "Detergentes",
+        "Aditivos alimentares"
+      ],
+      "major_producers": [
+        "China",
+        "Marrocos",
+        "Estados Unidos",
+        "Rússia"
+      ],
+      "reserves_brazil": "340 milhões de toneladas",
+      "emoji": "🪨"
+    },
+    "current": {
+      "price": 19771.09,
+      "change_24h": 1.74,
+      "change_7d": -1.01,
+      "change_30d": -0.72,
+      "change_1y": 708.8,
+      "timestamp": "2025-10-29T14:25:08.877712"
+    },
+    "statistics": {
+      "max_price_1y": 20421.77,
+      "min_price_1y": 2444.5,
+      "avg_price_1y": 9206.35
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 19145.37,
+          "volume": 8538
+        },
+        {
+          "date": "2025-09-30",
+          "price": 19201.73,
+          "volume": 22423
+        },
+        {
+          "date": "2025-10-01",
+          "price": 18574.62,
+          "volume": 3929
+        },
+        {
+          "date": "2025-10-02",
+          "price": 18519.2,
+          "volume": 44971
+        },
+        {
+          "date": "2025-10-03",
+          "price": 18792.21,
+          "volume": 18845
+        },
+        {
+          "date": "2025-10-04",
+          "price": 18987.38,
+          "volume": 14207
+        },
+        {
+          "date": "2025-10-05",
+          "price": 18278.56,
+          "volume": 46828
+        },
+        {
+          "date": "2025-10-06",
+          "price": 18110.56,
+          "volume": 18722
+        },
+        {
+          "date": "2025-10-07",
+          "price": 17887.8,
+          "volume": 33373
+        },
+        {
+          "date": "2025-10-08",
+          "price": 18394.34,
+          "volume": 45647
+        },
+        {
+          "date": "2025-10-09",
+          "price": 18230.48,
+          "volume": 36488
+        },
+        {
+          "date": "2025-10-10",
+          "price": 18966.16,
+          "volume": 41919
+        },
+        {
+          "date": "2025-10-11",
+          "price": 18700.17,
+          "volume": 23572
+        },
+        {
+          "date": "2025-10-12",
+          "price": 19345.86,
+          "volume": 11384
+        },
+        {
+          "date": "2025-10-13",
+          "price": 19075.98,
+          "volume": 45320
+        },
+        {
+          "date": "2025-10-14",
+          "price": 18925.4,
+          "volume": 35734
+        },
+        {
+          "date": "2025-10-15",
+          "price": 19341.31,
+          "volume": 4378
+        },
+        {
+          "date": "2025-10-16",
+          "price": 20254.83,
+          "volume": 15108
+        },
+        {
+          "date": "2025-10-17",
+          "price": 20421.77,
+          "volume": 9007
+        },
+        {
+          "date": "2025-10-18",
+          "price": 19702.27,
+          "volume": 5459
+        },
+        {
+          "date": "2025-10-19",
+          "price": 19321.86,
+          "volume": 48193
+        },
+        {
+          "date": "2025-10-20",
+          "price": 19838.63,
+          "volume": 1085
+        },
+        {
+          "date": "2025-10-21",
+          "price": 19973.71,
+          "volume": 2827
+        },
+        {
+          "date": "2025-10-22",
+          "price": 19902.48,
+          "volume": 36299
+        },
+        {
+          "date": "2025-10-23",
+          "price": 19760.79,
+          "volume": 25405
+        },
+        {
+          "date": "2025-10-24",
+          "price": 19783.01,
+          "volume": 16266
+        },
+        {
+          "date": "2025-10-25",
+          "price": 19467.87,
+          "volume": 18785
+        },
+        {
+          "date": "2025-10-26",
+          "price": 19748.34,
+          "volume": 5219
+        },
+        {
+          "date": "2025-10-27",
+          "price": 19433.85,
+          "volume": 3991
+        },
+        {
+          "date": "2025-10-28",
+          "price": 19771.09,
+          "volume": 27946
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 19902.48
+        },
+        {
+          "date": "2025-10-23",
+          "price": 19760.79
+        },
+        {
+          "date": "2025-10-24",
+          "price": 19783.01
+        },
+        {
+          "date": "2025-10-25",
+          "price": 19467.87
+        },
+        {
+          "date": "2025-10-26",
+          "price": 19748.34
+        },
+        {
+          "date": "2025-10-27",
+          "price": 19433.85
+        },
+        {
+          "date": "2025-10-28",
+          "price": 19771.09
+        }
+      ]
+    }
+  },
+  "potassio": {
+    "info": {
+      "name": "Potássio",
+      "symbol": "K₂O",
+      "unit": "R$/Ton",
+      "category": "Dependência de Suprimento",
+      "description": "Cloreto de potássio, grau fertilizante",
+      "applications": [
+        "Fertilizantes",
+        "Produtos químicos",
+        "Alimentos processados"
+      ],
+      "major_producers": [
+        "Canadá",
+        "Rússia",
+        "Bielorrússia",
+        "China"
+      ],
+      "reserves_brazil": "Projeto Autazes (AM) - 2.900 milhões ton",
+      "emoji": "🧂"
+    },
+    "current": {
+      "price": 14027.32,
+      "change_24h": 4.37,
+      "change_7d": 21.47,
+      "change_30d": 37.94,
+      "change_1y": 393.11,
+      "timestamp": "2025-10-29T14:25:08.877723"
+    },
+    "statistics": {
+      "max_price_1y": 14027.32,
+      "min_price_1y": 2748.59,
+      "avg_price_1y": 6890.86
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 10445.32,
+          "volume": 5610
+        },
+        {
+          "date": "2025-09-30",
+          "price": 11084.58,
+          "volume": 21112
+        },
+        {
+          "date": "2025-10-01",
+          "price": 11328.78,
+          "volume": 25686
+        },
+        {
+          "date": "2025-10-02",
+          "price": 11342.99,
+          "volume": 48215
+        },
+        {
+          "date": "2025-10-03",
+          "price": 11484.62,
+          "volume": 2077
+        },
+        {
+          "date": "2025-10-04",
+          "price": 11653.3,
+          "volume": 26865
+        },
+        {
+          "date": "2025-10-05",
+          "price": 11687.76,
+          "volume": 36751
+        },
+        {
+          "date": "2025-10-06",
+          "price": 11550.79,
+          "volume": 2928
+        },
+        {
+          "date": "2025-10-07",
+          "price": 11324.42,
+          "volume": 27833
+        },
+        {
+          "date": "2025-10-08",
+          "price": 11359.65,
+          "volume": 11012
+        },
+        {
+          "date": "2025-10-09",
+          "price": 11603.18,
+          "volume": 22884
+        },
+        {
+          "date": "2025-10-10",
+          "price": 12263.16,
+          "volume": 16248
+        },
+        {
+          "date": "2025-10-11",
+          "price": 12865.48,
+          "volume": 42895
+        },
+        {
+          "date": "2025-10-12",
+          "price": 12992.24,
+          "volume": 28689
+        },
+        {
+          "date": "2025-10-13",
+          "price": 12684.35,
+          "volume": 1797
+        },
+        {
+          "date": "2025-10-14",
+          "price": 12181.4,
+          "volume": 42514
+        },
+        {
+          "date": "2025-10-15",
+          "price": 12376.58,
+          "volume": 4445
+        },
+        {
+          "date": "2025-10-16",
+          "price": 12146.39,
+          "volume": 47521
+        },
+        {
+          "date": "2025-10-17",
+          "price": 12403.29,
+          "volume": 31725
+        },
+        {
+          "date": "2025-10-18",
+          "price": 12431.41,
+          "volume": 9631
+        },
+        {
+          "date": "2025-10-19",
+          "price": 11812.06,
+          "volume": 31672
+        },
+        {
+          "date": "2025-10-20",
+          "price": 11794.12,
+          "volume": 43371
+        },
+        {
+          "date": "2025-10-21",
+          "price": 11548.2,
+          "volume": 12457
+        },
+        {
+          "date": "2025-10-22",
+          "price": 11662.9,
+          "volume": 18631
+        },
+        {
+          "date": "2025-10-23",
+          "price": 12225.54,
+          "volume": 26647
+        },
+        {
+          "date": "2025-10-24",
+          "price": 12231.73,
+          "volume": 2902
+        },
+        {
+          "date": "2025-10-25",
+          "price": 12862.05,
+          "volume": 33700
+        },
+        {
+          "date": "2025-10-26",
+          "price": 12798.3,
+          "volume": 18842
+        },
+        {
+          "date": "2025-10-27",
+          "price": 13439.92,
+          "volume": 20547
+        },
+        {
+          "date": "2025-10-28",
+          "price": 14027.32,
+          "volume": 37587
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 11662.9
+        },
+        {
+          "date": "2025-10-23",
+          "price": 12225.54
+        },
+        {
+          "date": "2025-10-24",
+          "price": 12231.73
+        },
+        {
+          "date": "2025-10-25",
+          "price": 12862.05
+        },
+        {
+          "date": "2025-10-26",
+          "price": 12798.3
+        },
+        {
+          "date": "2025-10-27",
+          "price": 13439.92
+        },
+        {
+          "date": "2025-10-28",
+          "price": 14027.32
+        }
+      ]
+    }
+  },
+  "molibdenio": {
+    "info": {
+      "name": "Molibdênio",
+      "symbol": "Mo",
+      "unit": "R$/Ton",
+      "category": "Dependência de Suprimento",
+      "description": "Concentrado de molibdenita",
+      "applications": [
+        "Ligas de aço",
+        "Catalisadores",
+        "Lubrificantes",
+        "Pigmentos"
+      ],
+      "major_producers": [
+        "China",
+        "Chile",
+        "Estados Unidos",
+        "Peru"
+      ],
+      "reserves_brazil": "285.000 toneladas",
+      "emoji": "⚙️"
+    },
+    "current": {
+      "price": 2165876.97,
+      "change_24h": 0.84,
+      "change_7d": 4.52,
+      "change_30d": 15.99,
+      "change_1y": 1295.97,
+      "timestamp": "2025-10-29T14:25:08.877733"
+    },
+    "statistics": {
+      "max_price_1y": 2165876.97,
+      "min_price_1y": 155151.56,
+      "avg_price_1y": 781713.75
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 1888109.37,
+          "volume": 14715
+        },
+        {
+          "date": "2025-09-30",
+          "price": 1987044.23,
+          "volume": 23235
+        },
+        {
+          "date": "2025-10-01",
+          "price": 2032806.25,
+          "volume": 39026
+        },
+        {
+          "date": "2025-10-02",
+          "price": 2028987.95,
+          "volume": 45088
+        },
+        {
+          "date": "2025-10-03",
+          "price": 2066308.98,
+          "volume": 26343
+        },
+        {
+          "date": "2025-10-04",
+          "price": 2029248.24,
+          "volume": 14818
+        },
+        {
+          "date": "2025-10-05",
+          "price": 2134148.85,
+          "volume": 41764
+        },
+        {
+          "date": "2025-10-06",
+          "price": 2125465.53,
+          "volume": 27581
+        },
+        {
+          "date": "2025-10-07",
+          "price": 2155549.15,
+          "volume": 49711
+        },
+        {
+          "date": "2025-10-08",
+          "price": 2147426.22,
+          "volume": 34526
+        },
+        {
+          "date": "2025-10-09",
+          "price": 2156949.96,
+          "volume": 12200
+        },
+        {
+          "date": "2025-10-10",
+          "price": 2165561.78,
+          "volume": 27020
+        },
+        {
+          "date": "2025-10-11",
+          "price": 2135768.56,
+          "volume": 26787
+        },
+        {
+          "date": "2025-10-12",
+          "price": 2142082.22,
+          "volume": 14870
+        },
+        {
+          "date": "2025-10-13",
+          "price": 2134868.12,
+          "volume": 25596
+        },
+        {
+          "date": "2025-10-14",
+          "price": 2102179.4,
+          "volume": 40019
+        },
+        {
+          "date": "2025-10-15",
+          "price": 2120811.14,
+          "volume": 27237
+        },
+        {
+          "date": "2025-10-16",
+          "price": 2096879.6,
+          "volume": 25024
+        },
+        {
+          "date": "2025-10-17",
+          "price": 2087839.48,
+          "volume": 31371
+        },
+        {
+          "date": "2025-10-18",
+          "price": 2044638.9,
+          "volume": 15486
+        },
+        {
+          "date": "2025-10-19",
+          "price": 2036975.44,
+          "volume": 26760
+        },
+        {
+          "date": "2025-10-20",
+          "price": 2044402.81,
+          "volume": 49512
+        },
+        {
+          "date": "2025-10-21",
+          "price": 2072290.69,
+          "volume": 48580
+        },
+        {
+          "date": "2025-10-22",
+          "price": 2145985.96,
+          "volume": 26340
+        },
+        {
+          "date": "2025-10-23",
+          "price": 2127748.58,
+          "volume": 38367
+        },
+        {
+          "date": "2025-10-24",
+          "price": 2067051.21,
+          "volume": 4233
+        },
+        {
+          "date": "2025-10-25",
+          "price": 2041710.09,
+          "volume": 21004
+        },
+        {
+          "date": "2025-10-26",
+          "price": 2110228.43,
+          "volume": 42279
+        },
+        {
+          "date": "2025-10-27",
+          "price": 2147876.5,
+          "volume": 2961
+        },
+        {
+          "date": "2025-10-28",
+          "price": 2165876.97,
+          "volume": 12645
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 2145985.96
+        },
+        {
+          "date": "2025-10-23",
+          "price": 2127748.58
+        },
+        {
+          "date": "2025-10-24",
+          "price": 2067051.21
+        },
+        {
+          "date": "2025-10-25",
+          "price": 2041710.09
+        },
+        {
+          "date": "2025-10-26",
+          "price": 2110228.43
+        },
+        {
+          "date": "2025-10-27",
+          "price": 2147876.5
+        },
+        {
+          "date": "2025-10-28",
+          "price": 2165876.97
+        }
+      ]
+    }
+  },
+  "cobalto": {
+    "info": {
+      "name": "Cobalto",
+      "symbol": "Co",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia",
+      "description": "Cobalto metálico, grau catodo",
+      "applications": [
+        "Baterias Li-ion",
+        "Superligas aeroespaciais",
+        "Ímãs permanentes",
+        "Catalisadores"
+      ],
+      "major_producers": [
+        "Rep. Democrática do Congo (70%)",
+        "Rússia",
+        "Austrália",
+        "Filipinas"
+      ],
+      "reserves_brazil": "130.000 toneladas",
+      "emoji": "🔵"
+    },
+    "current": {
+      "price": 817395.99,
+      "change_24h": -5.36,
+      "change_7d": 4.68,
+      "change_30d": 26.05,
+      "change_1y": 398.48,
+      "timestamp": "2025-10-29T14:25:08.877744"
+    },
+    "statistics": {
+      "max_price_1y": 863699.31,
+      "min_price_1y": 163978.07,
+      "avg_price_1y": 389375.13
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 628630.67,
+          "volume": 4028
+        },
+        {
+          "date": "2025-09-30",
+          "price": 627288.79,
+          "volume": 34654
+        },
+        {
+          "date": "2025-10-01",
+          "price": 641636.34,
+          "volume": 37995
+        },
+        {
+          "date": "2025-10-02",
+          "price": 621814.06,
+          "volume": 30344
+        },
+        {
+          "date": "2025-10-03",
+          "price": 609558.2,
+          "volume": 49953
+        },
+        {
+          "date": "2025-10-04",
+          "price": 634861.54,
+          "volume": 42522
+        },
+        {
+          "date": "2025-10-05",
+          "price": 651985.51,
+          "volume": 2323
+        },
+        {
+          "date": "2025-10-06",
+          "price": 639593.22,
+          "volume": 25558
+        },
+        {
+          "date": "2025-10-07",
+          "price": 647048.82,
+          "volume": 27242
+        },
+        {
+          "date": "2025-10-08",
+          "price": 666144.06,
+          "volume": 15563
+        },
+        {
+          "date": "2025-10-09",
+          "price": 692650.13,
+          "volume": 14128
+        },
+        {
+          "date": "2025-10-10",
+          "price": 699429.93,
+          "volume": 1232
+        },
+        {
+          "date": "2025-10-11",
+          "price": 720608.88,
+          "volume": 19363
+        },
+        {
+          "date": "2025-10-12",
+          "price": 745786.18,
+          "volume": 9321
+        },
+        {
+          "date": "2025-10-13",
+          "price": 730585.92,
+          "volume": 37136
+        },
+        {
+          "date": "2025-10-14",
+          "price": 730175.42,
+          "volume": 48896
+        },
+        {
+          "date": "2025-10-15",
+          "price": 729301.13,
+          "volume": 21515
+        },
+        {
+          "date": "2025-10-16",
+          "price": 708329.55,
+          "volume": 42982
+        },
+        {
+          "date": "2025-10-17",
+          "price": 677783.21,
+          "volume": 49465
+        },
+        {
+          "date": "2025-10-18",
+          "price": 691031.11,
+          "volume": 45151
+        },
+        {
+          "date": "2025-10-19",
+          "price": 729413.27,
+          "volume": 8102
+        },
+        {
+          "date": "2025-10-20",
+          "price": 749729.44,
+          "volume": 40284
+        },
+        {
+          "date": "2025-10-21",
+          "price": 780830.12,
+          "volume": 30717
+        },
+        {
+          "date": "2025-10-22",
+          "price": 805024.72,
+          "volume": 49056
+        },
+        {
+          "date": "2025-10-23",
+          "price": 845658.26,
+          "volume": 49478
+        },
+        {
+          "date": "2025-10-24",
+          "price": 848231.14,
+          "volume": 40338
+        },
+        {
+          "date": "2025-10-25",
+          "price": 835252.24,
+          "volume": 23581
+        },
+        {
+          "date": "2025-10-26",
+          "price": 860502.53,
+          "volume": 43028
+        },
+        {
+          "date": "2025-10-27",
+          "price": 863699.31,
+          "volume": 36287
+        },
+        {
+          "date": "2025-10-28",
+          "price": 817395.99,
+          "volume": 7579
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 805024.72
+        },
+        {
+          "date": "2025-10-23",
+          "price": 845658.26
+        },
+        {
+          "date": "2025-10-24",
+          "price": 848231.14
+        },
+        {
+          "date": "2025-10-25",
+          "price": 835252.24
+        },
+        {
+          "date": "2025-10-26",
+          "price": 860502.53
+        },
+        {
+          "date": "2025-10-27",
+          "price": 863699.31
+        },
+        {
+          "date": "2025-10-28",
+          "price": 817395.99
+        }
+      ]
+    }
+  },
+  "cobre": {
+    "info": {
+      "name": "Cobre",
+      "symbol": "Cu",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia / Vantagens Competitivas",
+      "description": "Cobre eletrolítico, grau A",
+      "applications": [
+        "Fios e cabos elétricos",
+        "Construção civil",
+        "Veículos elétricos",
+        "Eletrônica"
+      ],
+      "major_producers": [
+        "Chile",
+        "Peru",
+        "China",
+        "Rep. Democrática do Congo"
+      ],
+      "reserves_brazil": "14.000.000 toneladas",
+      "emoji": "🟠"
+    },
+    "current": {
+      "price": 270945.64,
+      "change_24h": 0.11,
+      "change_7d": 1.66,
+      "change_30d": 23.23,
+      "change_1y": 490.67,
+      "timestamp": "2025-10-29T14:25:08.877754"
+    },
+    "statistics": {
+      "max_price_1y": 272689.43,
+      "min_price_1y": 45545.11,
+      "avg_price_1y": 111341.29
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 223219.07,
+          "volume": 23570
+        },
+        {
+          "date": "2025-09-30",
+          "price": 224557.97,
+          "volume": 42602
+        },
+        {
+          "date": "2025-10-01",
+          "price": 233491.66,
+          "volume": 28714
+        },
+        {
+          "date": "2025-10-02",
+          "price": 231561.36,
+          "volume": 35502
+        },
+        {
+          "date": "2025-10-03",
+          "price": 241273.87,
+          "volume": 4200
+        },
+        {
+          "date": "2025-10-04",
+          "price": 238297.34,
+          "volume": 14056
+        },
+        {
+          "date": "2025-10-05",
+          "price": 234663.1,
+          "volume": 1159
+        },
+        {
+          "date": "2025-10-06",
+          "price": 238663.42,
+          "volume": 13024
+        },
+        {
+          "date": "2025-10-07",
+          "price": 246907.27,
+          "volume": 14485
+        },
+        {
+          "date": "2025-10-08",
+          "price": 244971.95,
+          "volume": 24126
+        },
+        {
+          "date": "2025-10-09",
+          "price": 244424.87,
+          "volume": 4461
+        },
+        {
+          "date": "2025-10-10",
+          "price": 241189.3,
+          "volume": 40984
+        },
+        {
+          "date": "2025-10-11",
+          "price": 250161.64,
+          "volume": 24760
+        },
+        {
+          "date": "2025-10-12",
+          "price": 251224.45,
+          "volume": 24497
+        },
+        {
+          "date": "2025-10-13",
+          "price": 253250.71,
+          "volume": 3788
+        },
+        {
+          "date": "2025-10-14",
+          "price": 258658.9,
+          "volume": 19631
+        },
+        {
+          "date": "2025-10-15",
+          "price": 258597.5,
+          "volume": 6331
+        },
+        {
+          "date": "2025-10-16",
+          "price": 257035.37,
+          "volume": 1669
+        },
+        {
+          "date": "2025-10-17",
+          "price": 256946.98,
+          "volume": 29149
+        },
+        {
+          "date": "2025-10-18",
+          "price": 248116.55,
+          "volume": 38044
+        },
+        {
+          "date": "2025-10-19",
+          "price": 255993.84,
+          "volume": 44930
+        },
+        {
+          "date": "2025-10-20",
+          "price": 261802.0,
+          "volume": 14452
+        },
+        {
+          "date": "2025-10-21",
+          "price": 266533.96,
+          "volume": 42625
+        },
+        {
+          "date": "2025-10-22",
+          "price": 267022.72,
+          "volume": 22547
+        },
+        {
+          "date": "2025-10-23",
+          "price": 260939.07,
+          "volume": 10842
+        },
+        {
+          "date": "2025-10-24",
+          "price": 271933.77,
+          "volume": 3252
+        },
+        {
+          "date": "2025-10-25",
+          "price": 272689.43,
+          "volume": 4853
+        },
+        {
+          "date": "2025-10-26",
+          "price": 268930.37,
+          "volume": 43822
+        },
+        {
+          "date": "2025-10-27",
+          "price": 270651.01,
+          "volume": 15885
+        },
+        {
+          "date": "2025-10-28",
+          "price": 270945.64,
+          "volume": 5045
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 267022.72
+        },
+        {
+          "date": "2025-10-23",
+          "price": 260939.07
+        },
+        {
+          "date": "2025-10-24",
+          "price": 271933.77
+        },
+        {
+          "date": "2025-10-25",
+          "price": 272689.43
+        },
+        {
+          "date": "2025-10-26",
+          "price": 268930.37
+        },
+        {
+          "date": "2025-10-27",
+          "price": 270651.01
+        },
+        {
+          "date": "2025-10-28",
+          "price": 270945.64
+        }
+      ]
+    }
+  },
+  "estanho": {
+    "info": {
+      "name": "Estanho",
+      "symbol": "Sn",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia",
+      "description": "Estanho refinado, grau LME",
+      "applications": [
+        "Soldas eletrônicas",
+        "Revestimentos",
+        "Ligas",
+        "Químicos"
+      ],
+      "major_producers": [
+        "China",
+        "Indonésia",
+        "Mianmar",
+        "Peru"
+      ],
+      "reserves_brazil": "590.000 toneladas",
+      "emoji": "🔘"
+    },
+    "current": {
+      "price": 424288.2,
+      "change_24h": 2.3,
+      "change_7d": 6.99,
+      "change_30d": 26.66,
+      "change_1y": 227.12,
+      "timestamp": "2025-10-29T14:25:08.877771"
+    },
+    "statistics": {
+      "max_price_1y": 424288.2,
+      "min_price_1y": 124091.41,
+      "avg_price_1y": 206899.47
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 334199.19,
+          "volume": 29591
+        },
+        {
+          "date": "2025-09-30",
+          "price": 333459.0,
+          "volume": 37039
+        },
+        {
+          "date": "2025-10-01",
+          "price": 335093.06,
+          "volume": 11719
+        },
+        {
+          "date": "2025-10-02",
+          "price": 346949.82,
+          "volume": 32522
+        },
+        {
+          "date": "2025-10-03",
+          "price": 348676.6,
+          "volume": 1085
+        },
+        {
+          "date": "2025-10-04",
+          "price": 347415.67,
+          "volume": 22272
+        },
+        {
+          "date": "2025-10-05",
+          "price": 358288.81,
+          "volume": 45896
+        },
+        {
+          "date": "2025-10-06",
+          "price": 370811.09,
+          "volume": 42999
+        },
+        {
+          "date": "2025-10-07",
+          "price": 384225.81,
+          "volume": 38709
+        },
+        {
+          "date": "2025-10-08",
+          "price": 397478.9,
+          "volume": 15934
+        },
+        {
+          "date": "2025-10-09",
+          "price": 407188.61,
+          "volume": 1370
+        },
+        {
+          "date": "2025-10-10",
+          "price": 407791.93,
+          "volume": 44910
+        },
+        {
+          "date": "2025-10-11",
+          "price": 416597.58,
+          "volume": 21402
+        },
+        {
+          "date": "2025-10-12",
+          "price": 414663.63,
+          "volume": 44828
+        },
+        {
+          "date": "2025-10-13",
+          "price": 413194.36,
+          "volume": 28715
+        },
+        {
+          "date": "2025-10-14",
+          "price": 415117.91,
+          "volume": 41301
+        },
+        {
+          "date": "2025-10-15",
+          "price": 400303.98,
+          "volume": 32345
+        },
+        {
+          "date": "2025-10-16",
+          "price": 407131.52,
+          "volume": 9522
+        },
+        {
+          "date": "2025-10-17",
+          "price": 405489.43,
+          "volume": 12537
+        },
+        {
+          "date": "2025-10-18",
+          "price": 402192.31,
+          "volume": 35551
+        },
+        {
+          "date": "2025-10-19",
+          "price": 396335.16,
+          "volume": 22214
+        },
+        {
+          "date": "2025-10-20",
+          "price": 388964.61,
+          "volume": 29865
+        },
+        {
+          "date": "2025-10-21",
+          "price": 396583.26,
+          "volume": 19928
+        },
+        {
+          "date": "2025-10-22",
+          "price": 409047.12,
+          "volume": 12535
+        },
+        {
+          "date": "2025-10-23",
+          "price": 404779.44,
+          "volume": 49562
+        },
+        {
+          "date": "2025-10-24",
+          "price": 396243.63,
+          "volume": 34338
+        },
+        {
+          "date": "2025-10-25",
+          "price": 408605.74,
+          "volume": 37131
+        },
+        {
+          "date": "2025-10-26",
+          "price": 408418.85,
+          "volume": 24503
+        },
+        {
+          "date": "2025-10-27",
+          "price": 414734.35,
+          "volume": 24125
+        },
+        {
+          "date": "2025-10-28",
+          "price": 424288.2,
+          "volume": 13965
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 409047.12
+        },
+        {
+          "date": "2025-10-23",
+          "price": 404779.44
+        },
+        {
+          "date": "2025-10-24",
+          "price": 396243.63
+        },
+        {
+          "date": "2025-10-25",
+          "price": 408605.74
+        },
+        {
+          "date": "2025-10-26",
+          "price": 408418.85
+        },
+        {
+          "date": "2025-10-27",
+          "price": 414734.35
+        },
+        {
+          "date": "2025-10-28",
+          "price": 424288.2
+        }
+      ]
+    }
+  },
+  "grafita": {
+    "info": {
+      "name": "Grafita",
+      "symbol": "C",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia / Vantagens Competitivas",
+      "description": "Grafita natural, alto carbono",
+      "applications": [
+        "Ânodos de baterias",
+        "Refratários",
+        "Lubrificantes",
+        "Materiais avançados"
+      ],
+      "major_producers": [
+        "China",
+        "Moçambique",
+        "Brasil",
+        "Madagascar"
+      ],
+      "reserves_brazil": "72.000.000 toneladas",
+      "emoji": "✏️"
+    },
+    "current": {
+      "price": 97487.5,
+      "change_24h": 0.62,
+      "change_7d": 3.09,
+      "change_30d": 10.28,
+      "change_1y": 279.86,
+      "timestamp": "2025-10-29T14:25:08.877779"
+    },
+    "statistics": {
+      "max_price_1y": 113010.1,
+      "min_price_1y": 25120.73,
+      "avg_price_1y": 60154.66
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 86973.37,
+          "volume": 33740
+        },
+        {
+          "date": "2025-09-30",
+          "price": 84549.63,
+          "volume": 8796
+        },
+        {
+          "date": "2025-10-01",
+          "price": 86172.58,
+          "volume": 35143
+        },
+        {
+          "date": "2025-10-02",
+          "price": 83867.61,
+          "volume": 27690
+        },
+        {
+          "date": "2025-10-03",
+          "price": 83225.86,
+          "volume": 36996
+        },
+        {
+          "date": "2025-10-04",
+          "price": 87232.92,
+          "volume": 24947
+        },
+        {
+          "date": "2025-10-05",
+          "price": 87403.89,
+          "volume": 24913
+        },
+        {
+          "date": "2025-10-06",
+          "price": 86268.9,
+          "volume": 6168
+        },
+        {
+          "date": "2025-10-07",
+          "price": 85873.68,
+          "volume": 40365
+        },
+        {
+          "date": "2025-10-08",
+          "price": 83486.75,
+          "volume": 49479
+        },
+        {
+          "date": "2025-10-09",
+          "price": 86453.24,
+          "volume": 8195
+        },
+        {
+          "date": "2025-10-10",
+          "price": 88997.16,
+          "volume": 14291
+        },
+        {
+          "date": "2025-10-11",
+          "price": 91332.09,
+          "volume": 41752
+        },
+        {
+          "date": "2025-10-12",
+          "price": 92846.71,
+          "volume": 31804
+        },
+        {
+          "date": "2025-10-13",
+          "price": 91102.43,
+          "volume": 15126
+        },
+        {
+          "date": "2025-10-14",
+          "price": 87528.13,
+          "volume": 7618
+        },
+        {
+          "date": "2025-10-15",
+          "price": 87721.0,
+          "volume": 26499
+        },
+        {
+          "date": "2025-10-16",
+          "price": 87283.24,
+          "volume": 37156
+        },
+        {
+          "date": "2025-10-17",
+          "price": 88064.97,
+          "volume": 48264
+        },
+        {
+          "date": "2025-10-18",
+          "price": 90964.37,
+          "volume": 7380
+        },
+        {
+          "date": "2025-10-19",
+          "price": 90497.1,
+          "volume": 40694
+        },
+        {
+          "date": "2025-10-20",
+          "price": 93046.43,
+          "volume": 8269
+        },
+        {
+          "date": "2025-10-21",
+          "price": 94563.17,
+          "volume": 27752
+        },
+        {
+          "date": "2025-10-22",
+          "price": 97001.65,
+          "volume": 45482
+        },
+        {
+          "date": "2025-10-23",
+          "price": 99543.79,
+          "volume": 26371
+        },
+        {
+          "date": "2025-10-24",
+          "price": 101260.12,
+          "volume": 48617
+        },
+        {
+          "date": "2025-10-25",
+          "price": 101630.1,
+          "volume": 19968
+        },
+        {
+          "date": "2025-10-26",
+          "price": 99830.64,
+          "volume": 14201
+        },
+        {
+          "date": "2025-10-27",
+          "price": 96891.5,
+          "volume": 5914
+        },
+        {
+          "date": "2025-10-28",
+          "price": 97487.5,
+          "volume": 12198
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 97001.65
+        },
+        {
+          "date": "2025-10-23",
+          "price": 99543.79
+        },
+        {
+          "date": "2025-10-24",
+          "price": 101260.12
+        },
+        {
+          "date": "2025-10-25",
+          "price": 101630.1
+        },
+        {
+          "date": "2025-10-26",
+          "price": 99830.64
+        },
+        {
+          "date": "2025-10-27",
+          "price": 96891.5
+        },
+        {
+          "date": "2025-10-28",
+          "price": 97487.5
+        }
+      ]
+    }
+  },
+  "platina": {
+    "info": {
+      "name": "Metais do Grupo Platina",
+      "symbol": "PGM",
+      "unit": "R$/kg",
+      "category": "Alta Tecnologia",
+      "description": "Platina, paládio, ródio, rutênio",
+      "applications": [
+        "Catalisadores automotivos",
+        "Joalheria",
+        "Eletrônica",
+        "Células de combustível"
+      ],
+      "major_producers": [
+        "África do Sul (75%)",
+        "Rússia",
+        "Zimbábue",
+        "Canadá"
+      ],
+      "reserves_brazil": "Limitadas - projetos em exploração",
+      "emoji": "⚪"
+    },
+    "current": {
+      "price": 2285794.46,
+      "change_24h": 0.96,
+      "change_7d": 9.35,
+      "change_30d": 24.15,
+      "change_1y": 1271.44,
+      "timestamp": "2025-10-29T14:25:08.877789"
+    },
+    "statistics": {
+      "max_price_1y": 2285794.46,
+      "min_price_1y": 166552.78,
+      "avg_price_1y": 871290.71
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 1885168.79,
+          "volume": 9302
+        },
+        {
+          "date": "2025-09-30",
+          "price": 1921819.04,
+          "volume": 10226
+        },
+        {
+          "date": "2025-10-01",
+          "price": 1920444.47,
+          "volume": 42213
+        },
+        {
+          "date": "2025-10-02",
+          "price": 1988669.92,
+          "volume": 14330
+        },
+        {
+          "date": "2025-10-03",
+          "price": 2078713.2,
+          "volume": 22117
+        },
+        {
+          "date": "2025-10-04",
+          "price": 2027285.79,
+          "volume": 1476
+        },
+        {
+          "date": "2025-10-05",
+          "price": 2114564.89,
+          "volume": 34027
+        },
+        {
+          "date": "2025-10-06",
+          "price": 2181410.94,
+          "volume": 21442
+        },
+        {
+          "date": "2025-10-07",
+          "price": 2139739.12,
+          "volume": 43423
+        },
+        {
+          "date": "2025-10-08",
+          "price": 2139790.51,
+          "volume": 25695
+        },
+        {
+          "date": "2025-10-09",
+          "price": 2068826.89,
+          "volume": 28431
+        },
+        {
+          "date": "2025-10-10",
+          "price": 2100486.36,
+          "volume": 44087
+        },
+        {
+          "date": "2025-10-11",
+          "price": 2104890.18,
+          "volume": 3455
+        },
+        {
+          "date": "2025-10-12",
+          "price": 2036646.84,
+          "volume": 41149
+        },
+        {
+          "date": "2025-10-13",
+          "price": 1985431.73,
+          "volume": 19402
+        },
+        {
+          "date": "2025-10-14",
+          "price": 1935167.92,
+          "volume": 33803
+        },
+        {
+          "date": "2025-10-15",
+          "price": 1918708.49,
+          "volume": 43363
+        },
+        {
+          "date": "2025-10-16",
+          "price": 2002848.77,
+          "volume": 16159
+        },
+        {
+          "date": "2025-10-17",
+          "price": 2057102.84,
+          "volume": 30264
+        },
+        {
+          "date": "2025-10-18",
+          "price": 2069072.58,
+          "volume": 5950
+        },
+        {
+          "date": "2025-10-19",
+          "price": 2028503.84,
+          "volume": 39708
+        },
+        {
+          "date": "2025-10-20",
+          "price": 2035272.95,
+          "volume": 2262
+        },
+        {
+          "date": "2025-10-21",
+          "price": 2090310.3,
+          "volume": 48057
+        },
+        {
+          "date": "2025-10-22",
+          "price": 2141275.01,
+          "volume": 42514
+        },
+        {
+          "date": "2025-10-23",
+          "price": 2143921.2,
+          "volume": 3101
+        },
+        {
+          "date": "2025-10-24",
+          "price": 2177993.87,
+          "volume": 14673
+        },
+        {
+          "date": "2025-10-25",
+          "price": 2218411.35,
+          "volume": 33493
+        },
+        {
+          "date": "2025-10-26",
+          "price": 2158891.41,
+          "volume": 14154
+        },
+        {
+          "date": "2025-10-27",
+          "price": 2264166.85,
+          "volume": 20043
+        },
+        {
+          "date": "2025-10-28",
+          "price": 2285794.46,
+          "volume": 47052
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 2141275.01
+        },
+        {
+          "date": "2025-10-23",
+          "price": 2143921.2
+        },
+        {
+          "date": "2025-10-24",
+          "price": 2177993.87
+        },
+        {
+          "date": "2025-10-25",
+          "price": 2218411.35
+        },
+        {
+          "date": "2025-10-26",
+          "price": 2158891.41
+        },
+        {
+          "date": "2025-10-27",
+          "price": 2264166.85
+        },
+        {
+          "date": "2025-10-28",
+          "price": 2285794.46
+        }
+      ]
+    }
+  },
+  "litio": {
+    "info": {
+      "name": "Lítio",
+      "symbol": "Li",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia",
+      "description": "Carbonato de lítio, grau bateria",
+      "applications": [
+        "Baterias de veículos elétricos",
+        "Armazenamento de energia",
+        "Vidros e cerâmicas",
+        "Lubrificantes"
+      ],
+      "major_producers": [
+        "Austrália",
+        "Chile",
+        "China",
+        "Argentina"
+      ],
+      "reserves_brazil": "470.000 toneladas (USGS 2024)",
+      "emoji": "⚡"
+    },
+    "current": {
+      "price": 1192100.78,
+      "change_24h": 2.32,
+      "change_7d": 7.32,
+      "change_30d": 23.27,
+      "change_1y": 297.04,
+      "timestamp": "2025-10-29T14:25:08.877799"
+    },
+    "statistics": {
+      "max_price_1y": 1203263.52,
+      "min_price_1y": 282123.18,
+      "avg_price_1y": 547062.68
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 939532.82,
+          "volume": 11900
+        },
+        {
+          "date": "2025-09-30",
+          "price": 956290.14,
+          "volume": 45733
+        },
+        {
+          "date": "2025-10-01",
+          "price": 1008675.86,
+          "volume": 22985
+        },
+        {
+          "date": "2025-10-02",
+          "price": 1006036.43,
+          "volume": 3826
+        },
+        {
+          "date": "2025-10-03",
+          "price": 1025832.28,
+          "volume": 5453
+        },
+        {
+          "date": "2025-10-04",
+          "price": 1005302.17,
+          "volume": 30073
+        },
+        {
+          "date": "2025-10-05",
+          "price": 985880.58,
+          "volume": 9420
+        },
+        {
+          "date": "2025-10-06",
+          "price": 1020102.45,
+          "volume": 5707
+        },
+        {
+          "date": "2025-10-07",
+          "price": 1041482.24,
+          "volume": 19859
+        },
+        {
+          "date": "2025-10-08",
+          "price": 1041539.46,
+          "volume": 12527
+        },
+        {
+          "date": "2025-10-09",
+          "price": 1036287.69,
+          "volume": 25182
+        },
+        {
+          "date": "2025-10-10",
+          "price": 1071670.44,
+          "volume": 28530
+        },
+        {
+          "date": "2025-10-11",
+          "price": 1092424.8,
+          "volume": 31552
+        },
+        {
+          "date": "2025-10-12",
+          "price": 1073604.02,
+          "volume": 12607
+        },
+        {
+          "date": "2025-10-13",
+          "price": 1032444.96,
+          "volume": 20981
+        },
+        {
+          "date": "2025-10-14",
+          "price": 1050274.51,
+          "volume": 37023
+        },
+        {
+          "date": "2025-10-15",
+          "price": 1010914.36,
+          "volume": 48127
+        },
+        {
+          "date": "2025-10-16",
+          "price": 1035566.71,
+          "volume": 40764
+        },
+        {
+          "date": "2025-10-17",
+          "price": 1061092.5,
+          "volume": 12875
+        },
+        {
+          "date": "2025-10-18",
+          "price": 1098104.21,
+          "volume": 43908
+        },
+        {
+          "date": "2025-10-19",
+          "price": 1093196.06,
+          "volume": 10604
+        },
+        {
+          "date": "2025-10-20",
+          "price": 1095763.53,
+          "volume": 34582
+        },
+        {
+          "date": "2025-10-21",
+          "price": 1110764.62,
+          "volume": 6038
+        },
+        {
+          "date": "2025-10-22",
+          "price": 1138745.73,
+          "volume": 42100
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1155595.53,
+          "volume": 13031
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1173019.3,
+          "volume": 44221
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1153577.68,
+          "volume": 26830
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1203263.52,
+          "volume": 47092
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1165030.18,
+          "volume": 16435
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1192100.78,
+          "volume": 46138
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 1138745.73
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1155595.53
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1173019.3
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1153577.68
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1203263.52
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1165030.18
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1192100.78
+        }
+      ]
+    }
+  },
+  "niobio": {
+    "info": {
+      "name": "Nióbio",
+      "symbol": "Nb",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia / Vantagens Competitivas",
+      "description": "Ferronióbio, grau padrão",
+      "applications": [
+        "Ligas de aço HSLA",
+        "Supercondutores",
+        "Turbinas aeronáuticas",
+        "Implantes médicos"
+      ],
+      "major_producers": [
+        "Brasil (90%)",
+        "Canadá",
+        "Rep. Democrática do Congo"
+      ],
+      "reserves_brazil": "6.500.000 toneladas - Maior reserva mundial",
+      "emoji": "🔩"
+    },
+    "current": {
+      "price": 556386.37,
+      "change_24h": 0.98,
+      "change_7d": -3.84,
+      "change_30d": 5.65,
+      "change_1y": 343.08,
+      "timestamp": "2025-10-29T14:25:08.877811"
+    },
+    "statistics": {
+      "max_price_1y": 609187.12,
+      "min_price_1y": 117518.76,
+      "avg_price_1y": 287221.1
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 518385.19,
+          "volume": 18743
+        },
+        {
+          "date": "2025-09-30",
+          "price": 504022.53,
+          "volume": 47879
+        },
+        {
+          "date": "2025-10-01",
+          "price": 517433.82,
+          "volume": 15220
+        },
+        {
+          "date": "2025-10-02",
+          "price": 524823.33,
+          "volume": 22847
+        },
+        {
+          "date": "2025-10-03",
+          "price": 524457.63,
+          "volume": 47812
+        },
+        {
+          "date": "2025-10-04",
+          "price": 520431.34,
+          "volume": 18910
+        },
+        {
+          "date": "2025-10-05",
+          "price": 546828.38,
+          "volume": 43471
+        },
+        {
+          "date": "2025-10-06",
+          "price": 554036.93,
+          "volume": 41738
+        },
+        {
+          "date": "2025-10-07",
+          "price": 551207.74,
+          "volume": 6832
+        },
+        {
+          "date": "2025-10-08",
+          "price": 553620.62,
+          "volume": 15168
+        },
+        {
+          "date": "2025-10-09",
+          "price": 571548.53,
+          "volume": 26753
+        },
+        {
+          "date": "2025-10-10",
+          "price": 574649.9,
+          "volume": 47507
+        },
+        {
+          "date": "2025-10-11",
+          "price": 591056.14,
+          "volume": 33792
+        },
+        {
+          "date": "2025-10-12",
+          "price": 606854.87,
+          "volume": 43755
+        },
+        {
+          "date": "2025-10-13",
+          "price": 609187.12,
+          "volume": 28629
+        },
+        {
+          "date": "2025-10-14",
+          "price": 589385.72,
+          "volume": 47924
+        },
+        {
+          "date": "2025-10-15",
+          "price": 602498.06,
+          "volume": 5879
+        },
+        {
+          "date": "2025-10-16",
+          "price": 592873.43,
+          "volume": 11743
+        },
+        {
+          "date": "2025-10-17",
+          "price": 578831.06,
+          "volume": 8808
+        },
+        {
+          "date": "2025-10-18",
+          "price": 603997.26,
+          "volume": 36267
+        },
+        {
+          "date": "2025-10-19",
+          "price": 590182.39,
+          "volume": 38846
+        },
+        {
+          "date": "2025-10-20",
+          "price": 594240.09,
+          "volume": 26423
+        },
+        {
+          "date": "2025-10-21",
+          "price": 578585.89,
+          "volume": 8048
+        },
+        {
+          "date": "2025-10-22",
+          "price": 579514.65,
+          "volume": 3992
+        },
+        {
+          "date": "2025-10-23",
+          "price": 564891.82,
+          "volume": 18384
+        },
+        {
+          "date": "2025-10-24",
+          "price": 552393.23,
+          "volume": 31613
+        },
+        {
+          "date": "2025-10-25",
+          "price": 562511.26,
+          "volume": 37515
+        },
+        {
+          "date": "2025-10-26",
+          "price": 545413.92,
+          "volume": 38286
+        },
+        {
+          "date": "2025-10-27",
+          "price": 551000.22,
+          "volume": 24754
+        },
+        {
+          "date": "2025-10-28",
+          "price": 556386.37,
+          "volume": 34474
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 579514.65
+        },
+        {
+          "date": "2025-10-23",
+          "price": 564891.82
+        },
+        {
+          "date": "2025-10-24",
+          "price": 552393.23
+        },
+        {
+          "date": "2025-10-25",
+          "price": 562511.26
+        },
+        {
+          "date": "2025-10-26",
+          "price": 545413.92
+        },
+        {
+          "date": "2025-10-27",
+          "price": 551000.22
+        },
+        {
+          "date": "2025-10-28",
+          "price": 556386.37
+        }
+      ]
+    }
+  },
+  "niquel": {
+    "info": {
+      "name": "Níquel",
+      "symbol": "Ni",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia",
+      "description": "Níquel metálico, grau catodo",
+      "applications": [
+        "Aço inoxidável",
+        "Baterias NMC",
+        "Ligas especiais",
+        "Galvanização"
+      ],
+      "major_producers": [
+        "Indonésia",
+        "Filipinas",
+        "Rússia",
+        "Nova Caledônia"
+      ],
+      "reserves_brazil": "11.000.000 toneladas",
+      "emoji": "🪙"
+    },
+    "current": {
+      "price": 1055877.52,
+      "change_24h": 1.54,
+      "change_7d": -0.02,
+      "change_30d": 37.54,
+      "change_1y": 1174.48,
+      "timestamp": "2025-10-29T14:25:08.877821"
+    },
+    "statistics": {
+      "max_price_1y": 1081453.59,
+      "min_price_1y": 79998.24,
+      "avg_price_1y": 382832.67
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 792393.1,
+          "volume": 16950
+        },
+        {
+          "date": "2025-09-30",
+          "price": 794588.76,
+          "volume": 24536
+        },
+        {
+          "date": "2025-10-01",
+          "price": 781733.34,
+          "volume": 5040
+        },
+        {
+          "date": "2025-10-02",
+          "price": 786794.99,
+          "volume": 19635
+        },
+        {
+          "date": "2025-10-03",
+          "price": 784403.19,
+          "volume": 9711
+        },
+        {
+          "date": "2025-10-04",
+          "price": 787837.78,
+          "volume": 26848
+        },
+        {
+          "date": "2025-10-05",
+          "price": 820090.88,
+          "volume": 17435
+        },
+        {
+          "date": "2025-10-06",
+          "price": 838469.74,
+          "volume": 25337
+        },
+        {
+          "date": "2025-10-07",
+          "price": 885766.81,
+          "volume": 3844
+        },
+        {
+          "date": "2025-10-08",
+          "price": 909023.63,
+          "volume": 32967
+        },
+        {
+          "date": "2025-10-09",
+          "price": 920700.96,
+          "volume": 5715
+        },
+        {
+          "date": "2025-10-10",
+          "price": 892792.34,
+          "volume": 41409
+        },
+        {
+          "date": "2025-10-11",
+          "price": 890258.49,
+          "volume": 16108
+        },
+        {
+          "date": "2025-10-12",
+          "price": 917008.82,
+          "volume": 46027
+        },
+        {
+          "date": "2025-10-13",
+          "price": 931847.34,
+          "volume": 23090
+        },
+        {
+          "date": "2025-10-14",
+          "price": 940264.81,
+          "volume": 22411
+        },
+        {
+          "date": "2025-10-15",
+          "price": 974708.7,
+          "volume": 38686
+        },
+        {
+          "date": "2025-10-16",
+          "price": 1018661.76,
+          "volume": 21073
+        },
+        {
+          "date": "2025-10-17",
+          "price": 1049631.34,
+          "volume": 39730
+        },
+        {
+          "date": "2025-10-18",
+          "price": 1074650.18,
+          "volume": 1312
+        },
+        {
+          "date": "2025-10-19",
+          "price": 1077778.58,
+          "volume": 11475
+        },
+        {
+          "date": "2025-10-20",
+          "price": 1054338.81,
+          "volume": 32519
+        },
+        {
+          "date": "2025-10-21",
+          "price": 1056048.83,
+          "volume": 27344
+        },
+        {
+          "date": "2025-10-22",
+          "price": 1041697.73,
+          "volume": 4820
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1056207.66,
+          "volume": 8167
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1081453.59,
+          "volume": 1070
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1052130.93,
+          "volume": 10086
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1034428.01,
+          "volume": 19506
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1039818.87,
+          "volume": 25125
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1055877.52,
+          "volume": 48452
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 1041697.73
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1056207.66
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1081453.59
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1052130.93
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1034428.01
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1039818.87
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1055877.52
+        }
+      ]
+    }
+  },
+  "silicio": {
+    "info": {
+      "name": "Silício",
+      "symbol": "Si",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia",
+      "description": "Silício metálico, grau metalúrgico",
+      "applications": [
+        "Semicondutores",
+        "Painéis solares",
+        "Ligas de alumínio",
+        "Silicones"
+      ],
+      "major_producers": [
+        "China",
+        "Noruega",
+        "Brasil",
+        "Estados Unidos"
+      ],
+      "reserves_brazil": "Abundantes - quartzo de alta pureza",
+      "emoji": "💎"
+    },
+    "current": {
+      "price": 64072.81,
+      "change_24h": 1.12,
+      "change_7d": 2.31,
+      "change_30d": 24.08,
+      "change_1y": 702.07,
+      "timestamp": "2025-10-29T14:25:08.877831"
+    },
+    "statistics": {
+      "max_price_1y": 64072.81,
+      "min_price_1y": 7988.41,
+      "avg_price_1y": 31088.95
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 51244.71,
+          "volume": 14309
+        },
+        {
+          "date": "2025-09-30",
+          "price": 52435.41,
+          "volume": 12801
+        },
+        {
+          "date": "2025-10-01",
+          "price": 52918.32,
+          "volume": 37857
+        },
+        {
+          "date": "2025-10-02",
+          "price": 51043.55,
+          "volume": 6901
+        },
+        {
+          "date": "2025-10-03",
+          "price": 51629.36,
+          "volume": 33042
+        },
+        {
+          "date": "2025-10-04",
+          "price": 50878.15,
+          "volume": 4453
+        },
+        {
+          "date": "2025-10-05",
+          "price": 52994.1,
+          "volume": 18900
+        },
+        {
+          "date": "2025-10-06",
+          "price": 54422.37,
+          "volume": 39334
+        },
+        {
+          "date": "2025-10-07",
+          "price": 56759.69,
+          "volume": 13765
+        },
+        {
+          "date": "2025-10-08",
+          "price": 59265.99,
+          "volume": 8260
+        },
+        {
+          "date": "2025-10-09",
+          "price": 57748.14,
+          "volume": 46881
+        },
+        {
+          "date": "2025-10-10",
+          "price": 57736.8,
+          "volume": 48877
+        },
+        {
+          "date": "2025-10-11",
+          "price": 57461.49,
+          "volume": 45963
+        },
+        {
+          "date": "2025-10-12",
+          "price": 59694.25,
+          "volume": 36134
+        },
+        {
+          "date": "2025-10-13",
+          "price": 59779.48,
+          "volume": 7243
+        },
+        {
+          "date": "2025-10-14",
+          "price": 61211.39,
+          "volume": 23453
+        },
+        {
+          "date": "2025-10-15",
+          "price": 63112.16,
+          "volume": 28311
+        },
+        {
+          "date": "2025-10-16",
+          "price": 63222.22,
+          "volume": 5909
+        },
+        {
+          "date": "2025-10-17",
+          "price": 61385.47,
+          "volume": 11018
+        },
+        {
+          "date": "2025-10-18",
+          "price": 61706.51,
+          "volume": 13188
+        },
+        {
+          "date": "2025-10-19",
+          "price": 60458.24,
+          "volume": 28980
+        },
+        {
+          "date": "2025-10-20",
+          "price": 60546.5,
+          "volume": 14874
+        },
+        {
+          "date": "2025-10-21",
+          "price": 62624.97,
+          "volume": 33325
+        },
+        {
+          "date": "2025-10-22",
+          "price": 62206.51,
+          "volume": 3081
+        },
+        {
+          "date": "2025-10-23",
+          "price": 62493.64,
+          "volume": 22559
+        },
+        {
+          "date": "2025-10-24",
+          "price": 60732.42,
+          "volume": 11539
+        },
+        {
+          "date": "2025-10-25",
+          "price": 61228.54,
+          "volume": 10166
+        },
+        {
+          "date": "2025-10-26",
+          "price": 63332.51,
+          "volume": 23527
+        },
+        {
+          "date": "2025-10-27",
+          "price": 63366.14,
+          "volume": 23483
+        },
+        {
+          "date": "2025-10-28",
+          "price": 64072.81,
+          "volume": 2994
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 62206.51
+        },
+        {
+          "date": "2025-10-23",
+          "price": 62493.64
+        },
+        {
+          "date": "2025-10-24",
+          "price": 60732.42
+        },
+        {
+          "date": "2025-10-25",
+          "price": 61228.54
+        },
+        {
+          "date": "2025-10-26",
+          "price": 63332.51
+        },
+        {
+          "date": "2025-10-27",
+          "price": 63366.14
+        },
+        {
+          "date": "2025-10-28",
+          "price": 64072.81
+        }
+      ]
+    }
+  },
+  "talio": {
+    "info": {
+      "name": "Tálio",
+      "symbol": "Tl",
+      "unit": "R$/kg",
+      "category": "Alta Tecnologia",
+      "description": "Tálio metálico, grau puro",
+      "applications": [
+        "Eletrônica",
+        "Detectores de radiação",
+        "Lentes ópticas",
+        "Supercondutores"
+      ],
+      "major_producers": [
+        "China",
+        "Cazaquistão",
+        "Rússia"
+      ],
+      "reserves_brazil": "Limitadas - subproduto de outros metais",
+      "emoji": "🔬"
+    },
+    "current": {
+      "price": 1751556.79,
+      "change_24h": -2.76,
+      "change_7d": -5.92,
+      "change_30d": 19.75,
+      "change_1y": 337.9,
+      "timestamp": "2025-10-29T14:25:08.877841"
+    },
+    "statistics": {
+      "max_price_1y": 1965777.47,
+      "min_price_1y": 371664.53,
+      "avg_price_1y": 991853.93
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 1436207.84,
+          "volume": 39465
+        },
+        {
+          "date": "2025-09-30",
+          "price": 1501848.43,
+          "volume": 2588
+        },
+        {
+          "date": "2025-10-01",
+          "price": 1548555.75,
+          "volume": 25908
+        },
+        {
+          "date": "2025-10-02",
+          "price": 1592378.28,
+          "volume": 46012
+        },
+        {
+          "date": "2025-10-03",
+          "price": 1657777.05,
+          "volume": 20588
+        },
+        {
+          "date": "2025-10-04",
+          "price": 1707334.15,
+          "volume": 11338
+        },
+        {
+          "date": "2025-10-05",
+          "price": 1745600.88,
+          "volume": 39794
+        },
+        {
+          "date": "2025-10-06",
+          "price": 1850568.84,
+          "volume": 29057
+        },
+        {
+          "date": "2025-10-07",
+          "price": 1965777.47,
+          "volume": 9196
+        },
+        {
+          "date": "2025-10-08",
+          "price": 1918004.29,
+          "volume": 25585
+        },
+        {
+          "date": "2025-10-09",
+          "price": 1883151.76,
+          "volume": 13347
+        },
+        {
+          "date": "2025-10-10",
+          "price": 1827542.51,
+          "volume": 19341
+        },
+        {
+          "date": "2025-10-11",
+          "price": 1870285.87,
+          "volume": 4167
+        },
+        {
+          "date": "2025-10-12",
+          "price": 1847052.29,
+          "volume": 42488
+        },
+        {
+          "date": "2025-10-13",
+          "price": 1875981.29,
+          "volume": 42080
+        },
+        {
+          "date": "2025-10-14",
+          "price": 1894339.94,
+          "volume": 29292
+        },
+        {
+          "date": "2025-10-15",
+          "price": 1824097.66,
+          "volume": 16752
+        },
+        {
+          "date": "2025-10-16",
+          "price": 1835693.42,
+          "volume": 24083
+        },
+        {
+          "date": "2025-10-17",
+          "price": 1810633.88,
+          "volume": 4726
+        },
+        {
+          "date": "2025-10-18",
+          "price": 1853098.65,
+          "volume": 32937
+        },
+        {
+          "date": "2025-10-19",
+          "price": 1813105.43,
+          "volume": 29059
+        },
+        {
+          "date": "2025-10-20",
+          "price": 1833154.13,
+          "volume": 25407
+        },
+        {
+          "date": "2025-10-21",
+          "price": 1861766.29,
+          "volume": 47623
+        },
+        {
+          "date": "2025-10-22",
+          "price": 1806592.85,
+          "volume": 15858
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1846327.79,
+          "volume": 34964
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1855128.34,
+          "volume": 7996
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1766648.94,
+          "volume": 35985
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1723076.28,
+          "volume": 14810
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1801244.47,
+          "volume": 14168
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1751556.79,
+          "volume": 22526
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 1806592.85
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1846327.79
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1855128.34
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1766648.94
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1723076.28
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1801244.47
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1751556.79
+        }
+      ]
+    }
+  },
+  "tantalo": {
+    "info": {
+      "name": "Tântalo",
+      "symbol": "Ta",
+      "unit": "R$/kg",
+      "category": "Alta Tecnologia",
+      "description": "Pentóxido de tântalo",
+      "applications": [
+        "Capacitores eletrônicos",
+        "Superligas",
+        "Implantes cirúrgicos",
+        "Lentes ópticas"
+      ],
+      "major_producers": [
+        "Rep. Democrática do Congo",
+        "Ruanda",
+        "Brasil",
+        "China"
+      ],
+      "reserves_brazil": "136.000 toneladas",
+      "emoji": "📱"
+    },
+    "current": {
+      "price": 7973538.98,
+      "change_24h": 2.12,
+      "change_7d": -4.61,
+      "change_30d": 8.49,
+      "change_1y": 855.38,
+      "timestamp": "2025-10-29T14:25:08.877880"
+    },
+    "statistics": {
+      "max_price_1y": 8864013.11,
+      "min_price_1y": 753175.21,
+      "avg_price_1y": 2838799.86
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 7070850.37,
+          "volume": 25561
+        },
+        {
+          "date": "2025-09-30",
+          "price": 6786950.08,
+          "volume": 6945
+        },
+        {
+          "date": "2025-10-01",
+          "price": 6671340.29,
+          "volume": 17321
+        },
+        {
+          "date": "2025-10-02",
+          "price": 6655548.07,
+          "volume": 18625
+        },
+        {
+          "date": "2025-10-03",
+          "price": 6730618.09,
+          "volume": 41487
+        },
+        {
+          "date": "2025-10-04",
+          "price": 6737249.68,
+          "volume": 19139
+        },
+        {
+          "date": "2025-10-05",
+          "price": 6973697.9,
+          "volume": 32090
+        },
+        {
+          "date": "2025-10-06",
+          "price": 7057880.1,
+          "volume": 47031
+        },
+        {
+          "date": "2025-10-07",
+          "price": 7055084.13,
+          "volume": 7758
+        },
+        {
+          "date": "2025-10-08",
+          "price": 7406564.53,
+          "volume": 18515
+        },
+        {
+          "date": "2025-10-09",
+          "price": 7555591.46,
+          "volume": 36329
+        },
+        {
+          "date": "2025-10-10",
+          "price": 7858518.52,
+          "volume": 13709
+        },
+        {
+          "date": "2025-10-11",
+          "price": 7697067.06,
+          "volume": 4205
+        },
+        {
+          "date": "2025-10-12",
+          "price": 7907488.7,
+          "volume": 20819
+        },
+        {
+          "date": "2025-10-13",
+          "price": 8205155.35,
+          "volume": 19112
+        },
+        {
+          "date": "2025-10-14",
+          "price": 8453917.31,
+          "volume": 41738
+        },
+        {
+          "date": "2025-10-15",
+          "price": 8441997.25,
+          "volume": 42479
+        },
+        {
+          "date": "2025-10-16",
+          "price": 8856772.92,
+          "volume": 2277
+        },
+        {
+          "date": "2025-10-17",
+          "price": 8864013.11,
+          "volume": 38696
+        },
+        {
+          "date": "2025-10-18",
+          "price": 8668053.48,
+          "volume": 23689
+        },
+        {
+          "date": "2025-10-19",
+          "price": 8501914.17,
+          "volume": 37408
+        },
+        {
+          "date": "2025-10-20",
+          "price": 8472994.68,
+          "volume": 29670
+        },
+        {
+          "date": "2025-10-21",
+          "price": 8358685.84,
+          "volume": 27751
+        },
+        {
+          "date": "2025-10-22",
+          "price": 8680503.74,
+          "volume": 27185
+        },
+        {
+          "date": "2025-10-23",
+          "price": 8581365.99,
+          "volume": 31704
+        },
+        {
+          "date": "2025-10-24",
+          "price": 8239022.26,
+          "volume": 1095
+        },
+        {
+          "date": "2025-10-25",
+          "price": 7951424.88,
+          "volume": 30366
+        },
+        {
+          "date": "2025-10-26",
+          "price": 8071527.81,
+          "volume": 13280
+        },
+        {
+          "date": "2025-10-27",
+          "price": 7807648.75,
+          "volume": 14005
+        },
+        {
+          "date": "2025-10-28",
+          "price": 7973538.98,
+          "volume": 15552
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 8680503.74
+        },
+        {
+          "date": "2025-10-23",
+          "price": 8581365.99
+        },
+        {
+          "date": "2025-10-24",
+          "price": 8239022.26
+        },
+        {
+          "date": "2025-10-25",
+          "price": 7951424.88
+        },
+        {
+          "date": "2025-10-26",
+          "price": 8071527.81
+        },
+        {
+          "date": "2025-10-27",
+          "price": 7807648.75
+        },
+        {
+          "date": "2025-10-28",
+          "price": 7973538.98
+        }
+      ]
+    }
+  },
+  "terras_raras": {
+    "info": {
+      "name": "Terras Raras",
+      "symbol": "REE",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia",
+      "description": "Óxidos de terras raras, misto (Ce, La, Nd, Pr, etc.)",
+      "applications": [
+        "Ímãs permanentes",
+        "Catalisadores",
+        "Telas de LED",
+        "Motores elétricos",
+        "Lasers"
+      ],
+      "major_producers": [
+        "China (60%)",
+        "Estados Unidos",
+        "Mianmar",
+        "Austrália"
+      ],
+      "reserves_brazil": "22.000.000 toneladas",
+      "emoji": "🌟"
+    },
+    "current": {
+      "price": 1249590.12,
+      "change_24h": 2.28,
+      "change_7d": 5.64,
+      "change_30d": 11.76,
+      "change_1y": 473.51,
+      "timestamp": "2025-10-29T14:25:08.877893"
+    },
+    "statistics": {
+      "max_price_1y": 1348173.88,
+      "min_price_1y": 211179.69,
+      "avg_price_1y": 742655.14
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 1153499.2,
+          "volume": 5595
+        },
+        {
+          "date": "2025-09-30",
+          "price": 1212544.93,
+          "volume": 10609
+        },
+        {
+          "date": "2025-10-01",
+          "price": 1200812.13,
+          "volume": 3068
+        },
+        {
+          "date": "2025-10-02",
+          "price": 1230228.9,
+          "volume": 31715
+        },
+        {
+          "date": "2025-10-03",
+          "price": 1242243.76,
+          "volume": 8166
+        },
+        {
+          "date": "2025-10-04",
+          "price": 1277805.69,
+          "volume": 30190
+        },
+        {
+          "date": "2025-10-05",
+          "price": 1326414.8,
+          "volume": 1133
+        },
+        {
+          "date": "2025-10-06",
+          "price": 1345792.58,
+          "volume": 6339
+        },
+        {
+          "date": "2025-10-07",
+          "price": 1332133.06,
+          "volume": 25055
+        },
+        {
+          "date": "2025-10-08",
+          "price": 1306635.08,
+          "volume": 6167
+        },
+        {
+          "date": "2025-10-09",
+          "price": 1345248.53,
+          "volume": 40759
+        },
+        {
+          "date": "2025-10-10",
+          "price": 1348173.88,
+          "volume": 24140
+        },
+        {
+          "date": "2025-10-11",
+          "price": 1299708.27,
+          "volume": 12783
+        },
+        {
+          "date": "2025-10-12",
+          "price": 1289685.73,
+          "volume": 14602
+        },
+        {
+          "date": "2025-10-13",
+          "price": 1295492.47,
+          "volume": 24563
+        },
+        {
+          "date": "2025-10-14",
+          "price": 1293014.16,
+          "volume": 4591
+        },
+        {
+          "date": "2025-10-15",
+          "price": 1245670.95,
+          "volume": 47208
+        },
+        {
+          "date": "2025-10-16",
+          "price": 1284200.73,
+          "volume": 14966
+        },
+        {
+          "date": "2025-10-17",
+          "price": 1302683.29,
+          "volume": 1231
+        },
+        {
+          "date": "2025-10-18",
+          "price": 1277205.37,
+          "volume": 26822
+        },
+        {
+          "date": "2025-10-19",
+          "price": 1210937.63,
+          "volume": 46597
+        },
+        {
+          "date": "2025-10-20",
+          "price": 1166920.06,
+          "volume": 9173
+        },
+        {
+          "date": "2025-10-21",
+          "price": 1182897.46,
+          "volume": 21493
+        },
+        {
+          "date": "2025-10-22",
+          "price": 1201358.28,
+          "volume": 27196
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1190283.08,
+          "volume": 23325
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1202467.34,
+          "volume": 34979
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1188497.39,
+          "volume": 21563
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1237429.71,
+          "volume": 1044
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1221779.1,
+          "volume": 39098
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1249590.12,
+          "volume": 37589
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 1201358.28
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1190283.08
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1202467.34
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1188497.39
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1237429.71
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1221779.1
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1249590.12
+        }
+      ]
+    }
+  },
+  "titanio": {
+    "info": {
+      "name": "Titânio",
+      "symbol": "Ti",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia",
+      "description": "Ilmenita e rutilo (TiO₂)",
+      "applications": [
+        "Aeroespacial",
+        "Implantes médicos",
+        "Pigmentos",
+        "Ligas de alto desempenho"
+      ],
+      "major_producers": [
+        "China",
+        "Austrália",
+        "África do Sul",
+        "Canadá"
+      ],
+      "reserves_brazil": "18.000.000 toneladas",
+      "emoji": "🛩️"
+    },
+    "current": {
+      "price": 115788.56,
+      "change_24h": -2.9,
+      "change_7d": 4.87,
+      "change_30d": 13.59,
+      "change_1y": 339.35,
+      "timestamp": "2025-10-29T14:25:08.877905"
+    },
+    "statistics": {
+      "max_price_1y": 119243.4,
+      "min_price_1y": 23926.76,
+      "avg_price_1y": 56070.53
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 104599.42,
+          "volume": 19553
+        },
+        {
+          "date": "2025-09-30",
+          "price": 102307.89,
+          "volume": 22602
+        },
+        {
+          "date": "2025-10-01",
+          "price": 107169.57,
+          "volume": 8693
+        },
+        {
+          "date": "2025-10-02",
+          "price": 108534.45,
+          "volume": 2697
+        },
+        {
+          "date": "2025-10-03",
+          "price": 109369.98,
+          "volume": 41221
+        },
+        {
+          "date": "2025-10-04",
+          "price": 112764.15,
+          "volume": 18882
+        },
+        {
+          "date": "2025-10-05",
+          "price": 111129.98,
+          "volume": 7321
+        },
+        {
+          "date": "2025-10-06",
+          "price": 111765.16,
+          "volume": 30812
+        },
+        {
+          "date": "2025-10-07",
+          "price": 110834.93,
+          "volume": 29976
+        },
+        {
+          "date": "2025-10-08",
+          "price": 109681.49,
+          "volume": 4780
+        },
+        {
+          "date": "2025-10-09",
+          "price": 108679.33,
+          "volume": 46006
+        },
+        {
+          "date": "2025-10-10",
+          "price": 109366.76,
+          "volume": 18979
+        },
+        {
+          "date": "2025-10-11",
+          "price": 106712.51,
+          "volume": 30982
+        },
+        {
+          "date": "2025-10-12",
+          "price": 109313.93,
+          "volume": 14268
+        },
+        {
+          "date": "2025-10-13",
+          "price": 113502.84,
+          "volume": 24610
+        },
+        {
+          "date": "2025-10-14",
+          "price": 113697.35,
+          "volume": 41644
+        },
+        {
+          "date": "2025-10-15",
+          "price": 110891.98,
+          "volume": 3140
+        },
+        {
+          "date": "2025-10-16",
+          "price": 112079.35,
+          "volume": 28825
+        },
+        {
+          "date": "2025-10-17",
+          "price": 118051.7,
+          "volume": 41260
+        },
+        {
+          "date": "2025-10-18",
+          "price": 114731.96,
+          "volume": 4102
+        },
+        {
+          "date": "2025-10-19",
+          "price": 114043.56,
+          "volume": 27711
+        },
+        {
+          "date": "2025-10-20",
+          "price": 109147.76,
+          "volume": 7431
+        },
+        {
+          "date": "2025-10-21",
+          "price": 110409.4,
+          "volume": 21112
+        },
+        {
+          "date": "2025-10-22",
+          "price": 110571.53,
+          "volume": 28703
+        },
+        {
+          "date": "2025-10-23",
+          "price": 109100.68,
+          "volume": 9114
+        },
+        {
+          "date": "2025-10-24",
+          "price": 111204.14,
+          "volume": 2414
+        },
+        {
+          "date": "2025-10-25",
+          "price": 114835.31,
+          "volume": 48209
+        },
+        {
+          "date": "2025-10-26",
+          "price": 119243.4,
+          "volume": 40087
+        },
+        {
+          "date": "2025-10-27",
+          "price": 119242.42,
+          "volume": 39506
+        },
+        {
+          "date": "2025-10-28",
+          "price": 115788.56,
+          "volume": 12955
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 110571.53
+        },
+        {
+          "date": "2025-10-23",
+          "price": 109100.68
+        },
+        {
+          "date": "2025-10-24",
+          "price": 111204.14
+        },
+        {
+          "date": "2025-10-25",
+          "price": 114835.31
+        },
+        {
+          "date": "2025-10-26",
+          "price": 119243.4
+        },
+        {
+          "date": "2025-10-27",
+          "price": 119242.42
+        },
+        {
+          "date": "2025-10-28",
+          "price": 115788.56
+        }
+      ]
+    }
+  },
+  "tungstenio": {
+    "info": {
+      "name": "Tungstênio",
+      "symbol": "W",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia",
+      "description": "Concentrado de scheelita/wolframita",
+      "applications": [
+        "Ferramentas de corte",
+        "Filamentos",
+        "Ligas de alta temperatura",
+        "Blindagem"
+      ],
+      "major_producers": [
+        "China (80%)",
+        "Vietnã",
+        "Rússia",
+        "Bolívia"
+      ],
+      "reserves_brazil": "89.000 toneladas",
+      "emoji": "🔨"
+    },
+    "current": {
+      "price": 1804479.4,
+      "change_24h": 0.07,
+      "change_7d": 0.18,
+      "change_30d": 19.43,
+      "change_1y": 1102.29,
+      "timestamp": "2025-10-29T14:25:08.877915"
+    },
+    "statistics": {
+      "max_price_1y": 1882439.62,
+      "min_price_1y": 146035.0,
+      "avg_price_1y": 679901.27
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 1536034.81,
+          "volume": 12626
+        },
+        {
+          "date": "2025-09-30",
+          "price": 1513092.14,
+          "volume": 49388
+        },
+        {
+          "date": "2025-10-01",
+          "price": 1479805.0,
+          "volume": 45175
+        },
+        {
+          "date": "2025-10-02",
+          "price": 1479513.36,
+          "volume": 20490
+        },
+        {
+          "date": "2025-10-03",
+          "price": 1496257.0,
+          "volume": 49372
+        },
+        {
+          "date": "2025-10-04",
+          "price": 1565538.12,
+          "volume": 27492
+        },
+        {
+          "date": "2025-10-05",
+          "price": 1523474.74,
+          "volume": 47400
+        },
+        {
+          "date": "2025-10-06",
+          "price": 1517886.6,
+          "volume": 32077
+        },
+        {
+          "date": "2025-10-07",
+          "price": 1532250.14,
+          "volume": 19601
+        },
+        {
+          "date": "2025-10-08",
+          "price": 1577844.88,
+          "volume": 16185
+        },
+        {
+          "date": "2025-10-09",
+          "price": 1592891.34,
+          "volume": 13955
+        },
+        {
+          "date": "2025-10-10",
+          "price": 1595968.06,
+          "volume": 1285
+        },
+        {
+          "date": "2025-10-11",
+          "price": 1591882.93,
+          "volume": 8403
+        },
+        {
+          "date": "2025-10-12",
+          "price": 1595362.91,
+          "volume": 48506
+        },
+        {
+          "date": "2025-10-13",
+          "price": 1549116.37,
+          "volume": 37224
+        },
+        {
+          "date": "2025-10-14",
+          "price": 1615106.8,
+          "volume": 6418
+        },
+        {
+          "date": "2025-10-15",
+          "price": 1625961.22,
+          "volume": 26617
+        },
+        {
+          "date": "2025-10-16",
+          "price": 1685141.69,
+          "volume": 9515
+        },
+        {
+          "date": "2025-10-17",
+          "price": 1747337.0,
+          "volume": 3593
+        },
+        {
+          "date": "2025-10-18",
+          "price": 1791738.43,
+          "volume": 34959
+        },
+        {
+          "date": "2025-10-19",
+          "price": 1824859.05,
+          "volume": 44521
+        },
+        {
+          "date": "2025-10-20",
+          "price": 1804831.73,
+          "volume": 8108
+        },
+        {
+          "date": "2025-10-21",
+          "price": 1801296.02,
+          "volume": 15239
+        },
+        {
+          "date": "2025-10-22",
+          "price": 1828853.03,
+          "volume": 3672
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1882439.62,
+          "volume": 48875
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1858052.95,
+          "volume": 41602
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1829867.93,
+          "volume": 3653
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1818090.97,
+          "volume": 23288
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1803193.09,
+          "volume": 13497
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1804479.4,
+          "volume": 7234
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 1828853.03
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1882439.62
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1858052.95
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1829867.93
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1818090.97
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1803193.09
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1804479.4
+        }
+      ]
+    }
+  },
+  "uranio": {
+    "info": {
+      "name": "Urânio",
+      "symbol": "U",
+      "unit": "R$/kg U₃O₈",
+      "category": "Alta Tecnologia / Vantagens Competitivas",
+      "description": "Yellow cake (U₃O₈)",
+      "applications": [
+        "Combustível nuclear",
+        "Aplicações médicas",
+        "Pesquisa científica"
+      ],
+      "major_producers": [
+        "Cazaquistão",
+        "Canadá",
+        "Austrália",
+        "Namíbia"
+      ],
+      "reserves_brazil": "276.000 toneladas",
+      "emoji": "☢️"
+    },
+    "current": {
+      "price": 1121598.29,
+      "change_24h": 0.85,
+      "change_7d": 1.66,
+      "change_30d": 10.32,
+      "change_1y": 328.11,
+      "timestamp": "2025-10-29T14:25:08.877924"
+    },
+    "statistics": {
+      "max_price_1y": 1161676.42,
+      "min_price_1y": 251128.24,
+      "avg_price_1y": 595624.77
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 1040965.72,
+          "volume": 49027
+        },
+        {
+          "date": "2025-09-30",
+          "price": 1036267.36,
+          "volume": 17392
+        },
+        {
+          "date": "2025-10-01",
+          "price": 1027725.78,
+          "volume": 2753
+        },
+        {
+          "date": "2025-10-02",
+          "price": 1036074.67,
+          "volume": 33641
+        },
+        {
+          "date": "2025-10-03",
+          "price": 1019278.16,
+          "volume": 21763
+        },
+        {
+          "date": "2025-10-04",
+          "price": 1013490.79,
+          "volume": 39620
+        },
+        {
+          "date": "2025-10-05",
+          "price": 1039792.82,
+          "volume": 8834
+        },
+        {
+          "date": "2025-10-06",
+          "price": 1079270.7,
+          "volume": 15297
+        },
+        {
+          "date": "2025-10-07",
+          "price": 1081067.62,
+          "volume": 9156
+        },
+        {
+          "date": "2025-10-08",
+          "price": 1071396.31,
+          "volume": 34918
+        },
+        {
+          "date": "2025-10-09",
+          "price": 1045613.12,
+          "volume": 28503
+        },
+        {
+          "date": "2025-10-10",
+          "price": 1034669.59,
+          "volume": 14325
+        },
+        {
+          "date": "2025-10-11",
+          "price": 1029487.37,
+          "volume": 18620
+        },
+        {
+          "date": "2025-10-12",
+          "price": 1035749.32,
+          "volume": 48459
+        },
+        {
+          "date": "2025-10-13",
+          "price": 1082336.03,
+          "volume": 35377
+        },
+        {
+          "date": "2025-10-14",
+          "price": 1082115.33,
+          "volume": 47941
+        },
+        {
+          "date": "2025-10-15",
+          "price": 1051434.41,
+          "volume": 8448
+        },
+        {
+          "date": "2025-10-16",
+          "price": 1059788.59,
+          "volume": 26577
+        },
+        {
+          "date": "2025-10-17",
+          "price": 1058060.11,
+          "volume": 25193
+        },
+        {
+          "date": "2025-10-18",
+          "price": 1052150.67,
+          "volume": 5676
+        },
+        {
+          "date": "2025-10-19",
+          "price": 1072311.24,
+          "volume": 41286
+        },
+        {
+          "date": "2025-10-20",
+          "price": 1088541.36,
+          "volume": 11099
+        },
+        {
+          "date": "2025-10-21",
+          "price": 1103267.04,
+          "volume": 37892
+        },
+        {
+          "date": "2025-10-22",
+          "price": 1161676.42,
+          "volume": 14453
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1132361.67,
+          "volume": 7370
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1119333.66,
+          "volume": 35552
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1090028.75,
+          "volume": 23484
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1113668.33,
+          "volume": 37210
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1112159.52,
+          "volume": 34434
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1121598.29,
+          "volume": 10226
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 1161676.42
+        },
+        {
+          "date": "2025-10-23",
+          "price": 1132361.67
+        },
+        {
+          "date": "2025-10-24",
+          "price": 1119333.66
+        },
+        {
+          "date": "2025-10-25",
+          "price": 1090028.75
+        },
+        {
+          "date": "2025-10-26",
+          "price": 1113668.33
+        },
+        {
+          "date": "2025-10-27",
+          "price": 1112159.52
+        },
+        {
+          "date": "2025-10-28",
+          "price": 1121598.29
+        }
+      ]
+    }
+  },
+  "vanadio": {
+    "info": {
+      "name": "Vanádio",
+      "symbol": "V",
+      "unit": "R$/Ton",
+      "category": "Alta Tecnologia",
+      "description": "Pentóxido de vanádio",
+      "applications": [
+        "Ligas de aço",
+        "Baterias de fluxo",
+        "Catalisadores",
+        "Pigmentos cerâmicos"
+      ],
+      "major_producers": [
+        "China",
+        "Rússia",
+        "África do Sul",
+        "Brasil"
+      ],
+      "reserves_brazil": "3.100.000 toneladas",
+      "emoji": "🔋"
+    },
+    "current": {
+      "price": 983833.44,
+      "change_24h": 0.54,
+      "change_7d": 7.27,
+      "change_30d": 28.73,
+      "change_1y": 503.76,
+      "timestamp": "2025-10-29T14:25:08.877934"
+    },
+    "statistics": {
+      "max_price_1y": 983833.44,
+      "min_price_1y": 148560.32,
+      "avg_price_1y": 391223.16
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 769070.77,
+          "volume": 1864
+        },
+        {
+          "date": "2025-09-30",
+          "price": 770839.03,
+          "volume": 33874
+        },
+        {
+          "date": "2025-10-01",
+          "price": 764511.43,
+          "volume": 7061
+        },
+        {
+          "date": "2025-10-02",
+          "price": 748722.79,
+          "volume": 25380
+        },
+        {
+          "date": "2025-10-03",
+          "price": 775647.36,
+          "volume": 10186
+        },
+        {
+          "date": "2025-10-04",
+          "price": 808360.11,
+          "volume": 17481
+        },
+        {
+          "date": "2025-10-05",
+          "price": 831787.53,
+          "volume": 43401
+        },
+        {
+          "date": "2025-10-06",
+          "price": 847550.43,
+          "volume": 10945
+        },
+        {
+          "date": "2025-10-07",
+          "price": 889923.04,
+          "volume": 27827
+        },
+        {
+          "date": "2025-10-08",
+          "price": 889372.51,
+          "volume": 9623
+        },
+        {
+          "date": "2025-10-09",
+          "price": 889777.2,
+          "volume": 48563
+        },
+        {
+          "date": "2025-10-10",
+          "price": 876118.84,
+          "volume": 26557
+        },
+        {
+          "date": "2025-10-11",
+          "price": 893728.13,
+          "volume": 16323
+        },
+        {
+          "date": "2025-10-12",
+          "price": 865264.46,
+          "volume": 43852
+        },
+        {
+          "date": "2025-10-13",
+          "price": 880523.08,
+          "volume": 29287
+        },
+        {
+          "date": "2025-10-14",
+          "price": 892607.56,
+          "volume": 20738
+        },
+        {
+          "date": "2025-10-15",
+          "price": 906361.04,
+          "volume": 20783
+        },
+        {
+          "date": "2025-10-16",
+          "price": 894674.43,
+          "volume": 4373
+        },
+        {
+          "date": "2025-10-17",
+          "price": 912824.25,
+          "volume": 15858
+        },
+        {
+          "date": "2025-10-18",
+          "price": 946462.32,
+          "volume": 43618
+        },
+        {
+          "date": "2025-10-19",
+          "price": 933251.44,
+          "volume": 5084
+        },
+        {
+          "date": "2025-10-20",
+          "price": 943624.27,
+          "volume": 23861
+        },
+        {
+          "date": "2025-10-21",
+          "price": 917186.23,
+          "volume": 14633
+        },
+        {
+          "date": "2025-10-22",
+          "price": 948115.31,
+          "volume": 29100
+        },
+        {
+          "date": "2025-10-23",
+          "price": 944720.9,
+          "volume": 49875
+        },
+        {
+          "date": "2025-10-24",
+          "price": 922567.8,
+          "volume": 27444
+        },
+        {
+          "date": "2025-10-25",
+          "price": 951115.49,
+          "volume": 34575
+        },
+        {
+          "date": "2025-10-26",
+          "price": 974444.56,
+          "volume": 21357
+        },
+        {
+          "date": "2025-10-27",
+          "price": 978526.07,
+          "volume": 38352
+        },
+        {
+          "date": "2025-10-28",
+          "price": 983833.44,
+          "volume": 7101
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 948115.31
+        },
+        {
+          "date": "2025-10-23",
+          "price": 944720.9
+        },
+        {
+          "date": "2025-10-24",
+          "price": 922567.8
+        },
+        {
+          "date": "2025-10-25",
+          "price": 951115.49
+        },
+        {
+          "date": "2025-10-26",
+          "price": 974444.56
+        },
+        {
+          "date": "2025-10-27",
+          "price": 978526.07
+        },
+        {
+          "date": "2025-10-28",
+          "price": 983833.44
+        }
+      ]
+    }
+  },
+  "aluminio": {
+    "info": {
+      "name": "Alumínio",
+      "symbol": "Al",
+      "unit": "R$/Ton",
+      "category": "Vantagens Competitivas",
+      "description": "Alumínio primário, grau LME",
+      "applications": [
+        "Embalagens",
+        "Construção civil",
+        "Automotivo",
+        "Aeronáutico"
+      ],
+      "major_producers": [
+        "China",
+        "Índia",
+        "Rússia",
+        "Canadá"
+      ],
+      "reserves_brazil": "2.600.000.000 toneladas de bauxita",
+      "emoji": "🥫"
+    },
+    "current": {
+      "price": 45971.17,
+      "change_24h": 2.97,
+      "change_7d": 2.66,
+      "change_30d": 6.47,
+      "change_1y": 287.58,
+      "timestamp": "2025-10-29T14:25:08.877945"
+    },
+    "statistics": {
+      "max_price_1y": 45971.17,
+      "min_price_1y": 11861.13,
+      "avg_price_1y": 24055.73
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 44357.44,
+          "volume": 7508
+        },
+        {
+          "date": "2025-09-30",
+          "price": 44219.56,
+          "volume": 10909
+        },
+        {
+          "date": "2025-10-01",
+          "price": 45750.43,
+          "volume": 22469
+        },
+        {
+          "date": "2025-10-02",
+          "price": 44201.71,
+          "volume": 45364
+        },
+        {
+          "date": "2025-10-03",
+          "price": 44066.68,
+          "volume": 8847
+        },
+        {
+          "date": "2025-10-04",
+          "price": 44102.36,
+          "volume": 22093
+        },
+        {
+          "date": "2025-10-05",
+          "price": 44383.49,
+          "volume": 39906
+        },
+        {
+          "date": "2025-10-06",
+          "price": 44264.92,
+          "volume": 32109
+        },
+        {
+          "date": "2025-10-07",
+          "price": 44892.57,
+          "volume": 30257
+        },
+        {
+          "date": "2025-10-08",
+          "price": 43080.4,
+          "volume": 4457
+        },
+        {
+          "date": "2025-10-09",
+          "price": 41520.06,
+          "volume": 34081
+        },
+        {
+          "date": "2025-10-10",
+          "price": 42879.38,
+          "volume": 46492
+        },
+        {
+          "date": "2025-10-11",
+          "price": 43511.09,
+          "volume": 3304
+        },
+        {
+          "date": "2025-10-12",
+          "price": 42974.51,
+          "volume": 32733
+        },
+        {
+          "date": "2025-10-13",
+          "price": 41924.15,
+          "volume": 33228
+        },
+        {
+          "date": "2025-10-14",
+          "price": 42082.19,
+          "volume": 14344
+        },
+        {
+          "date": "2025-10-15",
+          "price": 43309.97,
+          "volume": 49873
+        },
+        {
+          "date": "2025-10-16",
+          "price": 43376.64,
+          "volume": 22509
+        },
+        {
+          "date": "2025-10-17",
+          "price": 43735.66,
+          "volume": 24497
+        },
+        {
+          "date": "2025-10-18",
+          "price": 44058.21,
+          "volume": 48462
+        },
+        {
+          "date": "2025-10-19",
+          "price": 44130.15,
+          "volume": 34236
+        },
+        {
+          "date": "2025-10-20",
+          "price": 44208.99,
+          "volume": 17007
+        },
+        {
+          "date": "2025-10-21",
+          "price": 44779.79,
+          "volume": 37824
+        },
+        {
+          "date": "2025-10-22",
+          "price": 43073.45,
+          "volume": 40076
+        },
+        {
+          "date": "2025-10-23",
+          "price": 43559.54,
+          "volume": 14581
+        },
+        {
+          "date": "2025-10-24",
+          "price": 44722.56,
+          "volume": 39854
+        },
+        {
+          "date": "2025-10-25",
+          "price": 44567.41,
+          "volume": 36745
+        },
+        {
+          "date": "2025-10-26",
+          "price": 45107.61,
+          "volume": 34372
+        },
+        {
+          "date": "2025-10-27",
+          "price": 44646.8,
+          "volume": 40168
+        },
+        {
+          "date": "2025-10-28",
+          "price": 45971.17,
+          "volume": 19956
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 43073.45
+        },
+        {
+          "date": "2025-10-23",
+          "price": 43559.54
+        },
+        {
+          "date": "2025-10-24",
+          "price": 44722.56
+        },
+        {
+          "date": "2025-10-25",
+          "price": 44567.41
+        },
+        {
+          "date": "2025-10-26",
+          "price": 45107.61
+        },
+        {
+          "date": "2025-10-27",
+          "price": 44646.8
+        },
+        {
+          "date": "2025-10-28",
+          "price": 45971.17
+        }
+      ]
+    }
+  },
+  "ferro": {
+    "info": {
+      "name": "Ferro",
+      "symbol": "Fe",
+      "unit": "R$/Ton",
+      "category": "Vantagens Competitivas",
+      "description": "Minério de ferro, 62% Fe",
+      "applications": [
+        "Siderurgia",
+        "Construção civil",
+        "Automotivo",
+        "Máquinas"
+      ],
+      "major_producers": [
+        "Austrália",
+        "Brasil",
+        "China",
+        "Índia"
+      ],
+      "reserves_brazil": "34.000.000.000 toneladas - 2ª maior reserva mundial",
+      "emoji": "🏗️"
+    },
+    "current": {
+      "price": 2285.97,
+      "change_24h": 3.32,
+      "change_7d": -1.31,
+      "change_30d": 15.29,
+      "change_1y": 248.81,
+      "timestamp": "2025-10-29T14:25:08.877955"
+    },
+    "statistics": {
+      "max_price_1y": 2421.27,
+      "min_price_1y": 644.91,
+      "avg_price_1y": 1384.95
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 2010.34,
+          "volume": 4653
+        },
+        {
+          "date": "2025-09-30",
+          "price": 2059.21,
+          "volume": 19371
+        },
+        {
+          "date": "2025-10-01",
+          "price": 2110.86,
+          "volume": 41843
+        },
+        {
+          "date": "2025-10-02",
+          "price": 2173.7,
+          "volume": 17336
+        },
+        {
+          "date": "2025-10-03",
+          "price": 2278.32,
+          "volume": 23168
+        },
+        {
+          "date": "2025-10-04",
+          "price": 2313.67,
+          "volume": 26973
+        },
+        {
+          "date": "2025-10-05",
+          "price": 2397.89,
+          "volume": 32727
+        },
+        {
+          "date": "2025-10-06",
+          "price": 2343.96,
+          "volume": 10472
+        },
+        {
+          "date": "2025-10-07",
+          "price": 2353.78,
+          "volume": 22098
+        },
+        {
+          "date": "2025-10-08",
+          "price": 2336.12,
+          "volume": 26587
+        },
+        {
+          "date": "2025-10-09",
+          "price": 2320.92,
+          "volume": 20726
+        },
+        {
+          "date": "2025-10-10",
+          "price": 2382.37,
+          "volume": 39917
+        },
+        {
+          "date": "2025-10-11",
+          "price": 2316.87,
+          "volume": 32811
+        },
+        {
+          "date": "2025-10-12",
+          "price": 2363.33,
+          "volume": 36782
+        },
+        {
+          "date": "2025-10-13",
+          "price": 2285.63,
+          "volume": 40961
+        },
+        {
+          "date": "2025-10-14",
+          "price": 2289.61,
+          "volume": 20349
+        },
+        {
+          "date": "2025-10-15",
+          "price": 2241.48,
+          "volume": 23929
+        },
+        {
+          "date": "2025-10-16",
+          "price": 2294.23,
+          "volume": 7506
+        },
+        {
+          "date": "2025-10-17",
+          "price": 2335.78,
+          "volume": 5688
+        },
+        {
+          "date": "2025-10-18",
+          "price": 2421.27,
+          "volume": 4400
+        },
+        {
+          "date": "2025-10-19",
+          "price": 2309.58,
+          "volume": 23094
+        },
+        {
+          "date": "2025-10-20",
+          "price": 2327.55,
+          "volume": 13552
+        },
+        {
+          "date": "2025-10-21",
+          "price": 2316.38,
+          "volume": 8498
+        },
+        {
+          "date": "2025-10-22",
+          "price": 2313.18,
+          "volume": 16995
+        },
+        {
+          "date": "2025-10-23",
+          "price": 2304.39,
+          "volume": 26324
+        },
+        {
+          "date": "2025-10-24",
+          "price": 2226.28,
+          "volume": 25580
+        },
+        {
+          "date": "2025-10-25",
+          "price": 2259.46,
+          "volume": 3625
+        },
+        {
+          "date": "2025-10-26",
+          "price": 2192.38,
+          "volume": 47093
+        },
+        {
+          "date": "2025-10-27",
+          "price": 2212.52,
+          "volume": 37040
+        },
+        {
+          "date": "2025-10-28",
+          "price": 2285.97,
+          "volume": 20028
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 2313.18
+        },
+        {
+          "date": "2025-10-23",
+          "price": 2304.39
+        },
+        {
+          "date": "2025-10-24",
+          "price": 2226.28
+        },
+        {
+          "date": "2025-10-25",
+          "price": 2259.46
+        },
+        {
+          "date": "2025-10-26",
+          "price": 2192.38
+        },
+        {
+          "date": "2025-10-27",
+          "price": 2212.52
+        },
+        {
+          "date": "2025-10-28",
+          "price": 2285.97
+        }
+      ]
+    }
+  },
+  "ouro": {
+    "info": {
+      "name": "Ouro",
+      "symbol": "Au",
+      "unit": "R$/kg",
+      "category": "Vantagens Competitivas",
+      "description": "Ouro fino, 99.9% de pureza",
+      "applications": [
+        "Joalheria",
+        "Investimento",
+        "Eletrônica",
+        "Odontologia",
+        "Aeroespacial"
+      ],
+      "major_producers": [
+        "China",
+        "Austrália",
+        "Rússia",
+        "Estados Unidos"
+      ],
+      "reserves_brazil": "2.400 toneladas",
+      "emoji": "🥇"
+    },
+    "current": {
+      "price": 3374139.72,
+      "change_24h": 0.86,
+      "change_7d": 1.84,
+      "change_30d": 35.55,
+      "change_1y": 954.81,
+      "timestamp": "2025-10-29T14:25:08.877965"
+    },
+    "statistics": {
+      "max_price_1y": 3385103.43,
+      "min_price_1y": 309288.19,
+      "avg_price_1y": 1158642.52
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 2499225.67,
+          "volume": 34738
+        },
+        {
+          "date": "2025-09-30",
+          "price": 2569051.78,
+          "volume": 2542
+        },
+        {
+          "date": "2025-10-01",
+          "price": 2616856.13,
+          "volume": 13314
+        },
+        {
+          "date": "2025-10-02",
+          "price": 2686347.03,
+          "volume": 40168
+        },
+        {
+          "date": "2025-10-03",
+          "price": 2633149.61,
+          "volume": 39840
+        },
+        {
+          "date": "2025-10-04",
+          "price": 2690609.92,
+          "volume": 28854
+        },
+        {
+          "date": "2025-10-05",
+          "price": 2698488.0,
+          "volume": 7211
+        },
+        {
+          "date": "2025-10-06",
+          "price": 2755586.19,
+          "volume": 49029
+        },
+        {
+          "date": "2025-10-07",
+          "price": 2741424.06,
+          "volume": 32409
+        },
+        {
+          "date": "2025-10-08",
+          "price": 2784011.92,
+          "volume": 40864
+        },
+        {
+          "date": "2025-10-09",
+          "price": 2861723.21,
+          "volume": 34729
+        },
+        {
+          "date": "2025-10-10",
+          "price": 2923578.01,
+          "volume": 29889
+        },
+        {
+          "date": "2025-10-11",
+          "price": 3009679.45,
+          "volume": 32091
+        },
+        {
+          "date": "2025-10-12",
+          "price": 2990568.98,
+          "volume": 38404
+        },
+        {
+          "date": "2025-10-13",
+          "price": 3006892.89,
+          "volume": 8000
+        },
+        {
+          "date": "2025-10-14",
+          "price": 2990597.38,
+          "volume": 4777
+        },
+        {
+          "date": "2025-10-15",
+          "price": 3037301.05,
+          "volume": 10233
+        },
+        {
+          "date": "2025-10-16",
+          "price": 2992207.43,
+          "volume": 26983
+        },
+        {
+          "date": "2025-10-17",
+          "price": 3067335.5,
+          "volume": 3316
+        },
+        {
+          "date": "2025-10-18",
+          "price": 3122143.78,
+          "volume": 27515
+        },
+        {
+          "date": "2025-10-19",
+          "price": 3131764.24,
+          "volume": 38310
+        },
+        {
+          "date": "2025-10-20",
+          "price": 3196348.17,
+          "volume": 26102
+        },
+        {
+          "date": "2025-10-21",
+          "price": 3313275.59,
+          "volume": 28322
+        },
+        {
+          "date": "2025-10-22",
+          "price": 3237279.11,
+          "volume": 38820
+        },
+        {
+          "date": "2025-10-23",
+          "price": 3290539.57,
+          "volume": 30454
+        },
+        {
+          "date": "2025-10-24",
+          "price": 3321982.33,
+          "volume": 7629
+        },
+        {
+          "date": "2025-10-25",
+          "price": 3385103.43,
+          "volume": 10900
+        },
+        {
+          "date": "2025-10-26",
+          "price": 3324466.56,
+          "volume": 10776
+        },
+        {
+          "date": "2025-10-27",
+          "price": 3345240.05,
+          "volume": 8532
+        },
+        {
+          "date": "2025-10-28",
+          "price": 3374139.72,
+          "volume": 46914
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 3237279.11
+        },
+        {
+          "date": "2025-10-23",
+          "price": 3290539.57
+        },
+        {
+          "date": "2025-10-24",
+          "price": 3321982.33
+        },
+        {
+          "date": "2025-10-25",
+          "price": 3385103.43
+        },
+        {
+          "date": "2025-10-26",
+          "price": 3324466.56
+        },
+        {
+          "date": "2025-10-27",
+          "price": 3345240.05
+        },
+        {
+          "date": "2025-10-28",
+          "price": 3374139.72
+        }
+      ]
+    }
+  },
+  "manganes": {
+    "info": {
+      "name": "Manganês",
+      "symbol": "Mn",
+      "unit": "R$/Ton",
+      "category": "Vantagens Competitivas",
+      "description": "Minério de manganês, concentrado",
+      "applications": [
+        "Siderurgia",
+        "Ligas",
+        "Baterias",
+        "Fertilizantes"
+      ],
+      "major_producers": [
+        "África do Sul",
+        "Austrália",
+        "China",
+        "Gabão"
+      ],
+      "reserves_brazil": "470.000.000 toneladas",
+      "emoji": "⚫"
+    },
+    "current": {
+      "price": 9349.83,
+      "change_24h": -3.25,
+      "change_7d": -8.74,
+      "change_30d": 5.95,
+      "change_1y": 440.71,
+      "timestamp": "2025-10-29T14:25:08.877975"
+    },
+    "statistics": {
+      "max_price_1y": 10469.76,
+      "min_price_1y": 1592.63,
+      "avg_price_1y": 5158.83
+    },
+    "chart_data": {
+      "daily_30d": [
+        {
+          "date": "2025-09-29",
+          "price": 8615.88,
+          "volume": 34321
+        },
+        {
+          "date": "2025-09-30",
+          "price": 8650.49,
+          "volume": 25164
+        },
+        {
+          "date": "2025-10-01",
+          "price": 8891.48,
+          "volume": 25810
+        },
+        {
+          "date": "2025-10-02",
+          "price": 8546.55,
+          "volume": 23213
+        },
+        {
+          "date": "2025-10-03",
+          "price": 8812.94,
+          "volume": 21422
+        },
+        {
+          "date": "2025-10-04",
+          "price": 8744.21,
+          "volume": 29543
+        },
+        {
+          "date": "2025-10-05",
+          "price": 8664.6,
+          "volume": 46808
+        },
+        {
+          "date": "2025-10-06",
+          "price": 8783.27,
+          "volume": 3861
+        },
+        {
+          "date": "2025-10-07",
+          "price": 9057.64,
+          "volume": 48187
+        },
+        {
+          "date": "2025-10-08",
+          "price": 9280.65,
+          "volume": 38274
+        },
+        {
+          "date": "2025-10-09",
+          "price": 9118.86,
+          "volume": 7904
+        },
+        {
+          "date": "2025-10-10",
+          "price": 9296.92,
+          "volume": 4379
+        },
+        {
+          "date": "2025-10-11",
+          "price": 9309.32,
+          "volume": 2334
+        },
+        {
+          "date": "2025-10-12",
+          "price": 9650.11,
+          "volume": 2748
+        },
+        {
+          "date": "2025-10-13",
+          "price": 9906.61,
+          "volume": 17814
+        },
+        {
+          "date": "2025-10-14",
+          "price": 9791.86,
+          "volume": 16134
+        },
+        {
+          "date": "2025-10-15",
+          "price": 9706.69,
+          "volume": 31813
+        },
+        {
+          "date": "2025-10-16",
+          "price": 9808.89,
+          "volume": 23402
+        },
+        {
+          "date": "2025-10-17",
+          "price": 9843.37,
+          "volume": 47417
+        },
+        {
+          "date": "2025-10-18",
+          "price": 9938.86,
+          "volume": 22887
+        },
+        {
+          "date": "2025-10-19",
+          "price": 9882.39,
+          "volume": 38764
+        },
+        {
+          "date": "2025-10-20",
+          "price": 10103.62,
+          "volume": 14113
+        },
+        {
+          "date": "2025-10-21",
+          "price": 10244.84,
+          "volume": 36981
+        },
+        {
+          "date": "2025-10-22",
+          "price": 10389.47,
+          "volume": 8842
+        },
+        {
+          "date": "2025-10-23",
+          "price": 10469.76,
+          "volume": 1029
+        },
+        {
+          "date": "2025-10-24",
+          "price": 10099.7,
+          "volume": 44023
+        },
+        {
+          "date": "2025-10-25",
+          "price": 9793.23,
+          "volume": 47239
+        },
+        {
+          "date": "2025-10-26",
+          "price": 9716.89,
+          "volume": 23610
+        },
+        {
+          "date": "2025-10-27",
+          "price": 9663.45,
+          "volume": 37520
+        },
+        {
+          "date": "2025-10-28",
+          "price": 9349.83,
+          "volume": 34379
+        }
+      ],
+      "sparkline_7d": [
+        {
+          "date": "2025-10-22",
+          "price": 10389.47
+        },
+        {
+          "date": "2025-10-23",
+          "price": 10469.76
+        },
+        {
+          "date": "2025-10-24",
+          "price": 10099.7
+        },
+        {
+          "date": "2025-10-25",
+          "price": 9793.23
+        },
+        {
+          "date": "2025-10-26",
+          "price": 9716.89
+        },
+        {
+          "date": "2025-10-27",
+          "price": 9663.45
+        },
+        {
+          "date": "2025-10-28",
+          "price": 9349.83
+        }
+      ]
+    }
+  }
+}

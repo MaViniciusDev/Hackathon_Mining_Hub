@@ -1,0 +1,30 @@
+{
+  "lithium": [
+    {
+      "title": "Lithium exploration trends in Brazil: new prospects and technologies",
+      "journal": "Journal of South American Geology",
+      "date": "2025-09-12",
+      "url": "https://example.org/article/lithium-exploration-brazil",
+      "summary": "Resumo técnico sobre novas áreas promissoras para lítio no Quadrilátero Ferrífero e no Vale do Jequitinhonha, incluindo técnicas de sensoriamento remoto.",
+      "authors": ["A. Silva", "M. Pereira"]
+    },
+    {
+      "title": "Clay-hosted lithium deposits: geological controls and extraction challenges",
+      "journal": "International Journal of Mineral Processing",
+      "date": "2025-08-03",
+      "url": "https://example.org/article/clay-lithium",
+      "summary": "Revisão sobre depósitos de argila ricos em lítio e as considerações ambientais e de processamento na mineração moderna.",
+      "authors": ["C. Ramos", "J. Costa"]
+    }
+  ],
+  "niobium": [
+    {
+      "title": "Niobium resource evaluation in Brazil: an update",
+      "journal": "Mineral Economics",
+      "date": "2025-06-20",
+      "url": "https://example.org/article/niobium-eval",
+      "summary": "Avaliação atualizada de recursos de nióbio incluindo novos dados geofísicos.",
+      "authors": ["L. Gomes"]
+    }
+  ]
+}
